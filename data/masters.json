@@ -1,0 +1,189 @@
+[
+    {
+        "url": "https://www.uc3m.es/master/computer-science-technology",
+        "grant": false,
+        "type": "research",
+        "id": "a1bc2f9c9388c8b287577f9cf7b28b8429bd67eb",
+        "name": "Master in Computer Science and Technology",
+        "lang": "Spanish",
+        "modality": "On-campus",
+        "creds": "60",
+        "location": "Leganes",
+        "places": "25",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/electronic-systems",
+        "grant": true,
+        "type": "research",
+        "id": "43aaceb5c00f323cd798bbb09717ed29cff9d542",
+        "name": "Master in Electronic Systems Engineering ",
+        "lang": "Spanish",
+        "modality": "On-campus",
+        "creds": "60",
+        "location": "Leganes",
+        "places": "30",
+        "courses": "1",
+        "price": {
+            "eu": "4,800",
+            "neu": "7,200"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/industrial-mechanics",
+        "grant": true,
+        "type": "research",
+        "id": "39cd1969e3ea96d2e07a318e53fbaca8a79df7cb",
+        "name": "Master in Industrial Mechanics",
+        "lang": "Spanish",
+        "modality": "On-campus",
+        "creds": "60",
+        "location": "Leganes",
+        "places": "30",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/information-health-engineering",
+        "grant": false,
+        "type": "research",
+        "id": "62681c31f34e5975c53011c802b02883aa5ebe4d",
+        "name": "Master in Information Health Engineering",
+        "lang": "English",
+        "modality": "On-campus",
+        "creds": "60",
+        "location": "Leganes",
+        "places": "20",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/materials-science-engineering",
+        "grant": true,
+        "type": "research",
+        "id": "1461b839b254ea6ea69d44d3fee5e55e0e045c3c",
+        "name": "Master in Materials Science & Engineering",
+        "lang": "Spanish",
+        "modality": "On-campus",
+        "creds": "60",
+        "location": "Leganes",
+        "places": "25",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/mathematical-engineering",
+        "grant": true,
+        "type": "research",
+        "id": "93d107497b005ad86512bdd26e4519d7e45cd56b",
+        "name": "Master in Mathematical Engineering",
+        "lang": "Bilingual",
+        "modality": "On-campus",
+        "creds": "90",
+        "location": "Leganes",
+        "places": "20",
+        "courses": "1",
+        "price": {
+            "eu": "2,160.96",
+            "neu": "4,035.36"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/multimedia-communications",
+        "grant": true,
+        "type": "research",
+        "id": "1db1915d146a1b0150da6e70f8e8af874c08eecb",
+        "name": "Master in Advanced Communications Technologies",
+        "lang": "English",
+        "modality": "On-campus",
+        "creds": "60",
+        "location": "Leganes",
+        "places": "20",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/robotics",
+        "grant": false,
+        "type": "research",
+        "id": "1564d359b0f7e9d977a8b733c35c34e42a36c61f",
+        "name": "Master in Robotics and Automation",
+        "lang": "Spanish",
+        "modality": "On-campus",
+        "creds": "90",
+        "location": "Leganes",
+        "places": "45",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/telematics-engineering",
+        "grant": true,
+        "type": "research",
+        "id": "396efaaf3634ee475228e67e02c9373996aa858d",
+        "name": "Master in Telematics Engineering",
+        "lang": "English",
+        "modality": "On-campus",
+        "creds": "60",
+        "location": "Leganes",
+        "places": "20",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/master-nuclear-fusion",
+        "grant": false,
+        "type": "research",
+        "id": "54b6990d2cef0e2489f3c0313bd910197a4568ba",
+        "name": "UC3M - European Master of Science in Nuclear Fusion and Engineering Physics",
+        "lang": "English",
+        "modality": "On-campus",
+        "creds": "120",
+        "location": "Leganes",
+        "places": "20",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    },
+    {
+        "url": "https://www.uc3m.es/master/miphot",
+        "grant": false,
+        "type": "research",
+        "id": "52cba74018544a59e3541700947c0dd8ec1eb476",
+        "name": "UC3M - Interuniversity Master in Photonics Engineering",
+        "lang": "English",
+        "modality": "On-campus",
+        "creds": "60",
+        "location": "Madrid - Puerta de Toledo",
+        "places": "20",
+        "courses": "1",
+        "price": {
+            "eu": "2,701.2",
+            "neu": "5,044.2"
+        }
+    }
+]
