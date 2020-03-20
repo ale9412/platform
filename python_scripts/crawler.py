@@ -103,7 +103,6 @@ def get_subjects(masters):
     # For every master link, go and extract the subjects basic info
     subjects_list = []
     for master in masters:
-        print(master["name"])
         url = master["url"] + "#curriculum"
         soup = soupify(url) 
 
@@ -147,12 +146,20 @@ def extract_subject_info(subjects):
     subjects_list = []
 
     for subject in subjects:
-        # print(subject["url"])
         soup = soupify(subject["url"])
         
         # Collect course, semester, id, and schedule link
-        course = soup.find(string=re.compile("Course:.+"))
-        semester = soup.find(string=re.compile("Semester:.+"))
+        s = soup.select("div.col.izquierda")
+        _, _, course, semester = s
+        course = course.getText()
+        semester = semester.getText()
+        semester = re.search("\d", semester)
+        course = re.search("\d", course)
+        if semester != None:
+            semester = semester.group()
+        if course != None:
+            course = course.group()
+            
         id = soup.find("div", {"class":"asignatura"}, string=re.compile("(\d{5})"))
         id = re.subn(r"[()]", "", id.getText())[0]
 
@@ -200,7 +207,6 @@ def get_schedule(link):
                 weeks.extend(r)
             else:
                 weeks.append(int(value))
-                # TO DO: Find a way to nicely store the schedule
         schedule.append({"weeks":weeks, "day":day, "time": start_hour, "room":room})
     return schedule
 
