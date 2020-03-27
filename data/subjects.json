@@ -1634,7 +1634,7 @@
                     5
                 ],
                 "time": "09:00",
-                "room": "* DOCENCIA EXTERNA LEGANES"
+                "room": "DOCENCIA EXTERNA LEGANES"
             },
             {
                 "weeks": [
@@ -1644,7 +1644,7 @@
                     5
                 ],
                 "time": "15:00",
-                "room": "* DOCENCIA EXTERNA LEGANES"
+                "room": "DOCENCIA EXTERNA LEGANES"
             }
         ],
         "topics": [
@@ -4526,7 +4526,7 @@
                     5
                 ],
                 "time": "15:00",
-                "room": "* DOCENCIA EXTERNA LEGANES"
+                "room": "DOCENCIA EXTERNA LEGANES"
             },
             {
                 "weeks": [
@@ -4536,7 +4536,7 @@
                     5
                 ],
                 "time": "16:45",
-                "room": "* DOCENCIA EXTERNA LEGANES"
+                "room": "DOCENCIA EXTERNA LEGANES"
             },
             {
                 "weeks": [
@@ -7490,7 +7490,7 @@
                     3
                 ],
                 "time": "17:00",
-                "room": "* Aula virtual LEGANES"
+                "room": "Aula virtual LEGANES"
             },
             {
                 "weeks": [
@@ -8699,7 +8699,7 @@
         "topics": []
     },
     {
-        "name": "Seminars *",
+        "name": "Seminars",
         "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=264&asig=16143&idioma=2",
         "credits": "3",
         "type": "C",
@@ -9947,7 +9947,7 @@
                     3
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -9957,7 +9957,7 @@
                     3
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -9982,7 +9982,7 @@
                     4
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -9995,7 +9995,7 @@
                     4
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             }
         ],
         "topics": [
@@ -10099,7 +10099,7 @@
                     4
                 ],
                 "time": "09:00",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10111,7 +10111,7 @@
                     4
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10313,7 +10313,7 @@
                     1
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10323,7 +10323,7 @@
                     1
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10363,7 +10363,7 @@
                     3
                 ],
                 "time": "09:00",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10385,7 +10385,7 @@
                     4
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10397,7 +10397,7 @@
                     4
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10408,7 +10408,7 @@
                     4
                 ],
                 "time": "09:00",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             }
         ],
         "topics": [
@@ -10418,7 +10418,7 @@
         ]
     },
     {
-        "name": "Assistive Photonics (I1) *",
+        "name": "Assistive Photonics (I1)",
         "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=338&asig=17366&idioma=2",
         "credits": "3",
         "type": "E",
@@ -10457,7 +10457,7 @@
                     3
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10470,7 +10470,7 @@
                     3
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10481,7 +10481,7 @@
                     3
                 ],
                 "time": "09:00",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10492,7 +10492,7 @@
                     4
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10502,7 +10502,7 @@
                     4
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             }
         ],
         "topics": [
@@ -10530,7 +10530,7 @@
                     4
                 ],
                 "time": "09:00",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10545,7 +10545,7 @@
                     4
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10561,7 +10561,7 @@
                     4
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             }
         ],
         "topics": [
@@ -10616,7 +10616,7 @@
                     4
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10626,7 +10626,7 @@
                     4
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             }
         ],
         "topics": [
@@ -10636,7 +10636,7 @@
         ]
     },
     {
-        "name": "Imaging Systems (I1) *",
+        "name": "Imaging Systems (I1)",
         "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=338&asig=17371&idioma=2",
         "credits": "3",
         "type": "E",
@@ -10654,7 +10654,7 @@
         ]
     },
     {
-        "name": "Lidar system and applications (I1) *",
+        "name": "Lidar system and applications (I1)",
         "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=338&asig=17367&idioma=2",
         "credits": "3",
         "type": "E",
@@ -10672,7 +10672,7 @@
         ]
     },
     {
-        "name": "Optical sensor networks (I1) *",
+        "name": "Optical sensor networks (I1)",
         "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=338&asig=17370&idioma=2",
         "credits": "3",
         "type": "E",
@@ -10805,7 +10805,7 @@
         ]
     },
     {
-        "name": "Advanced Semiconductor lasers (I2) *",
+        "name": "Advanced Semiconductor lasers (I2)",
         "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=338&asig=17376&idioma=2",
         "credits": "3",
         "type": "E",
@@ -10852,7 +10852,7 @@
                     2
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10863,7 +10863,7 @@
                     2
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             }
         ],
         "topics": [
@@ -10874,7 +10874,7 @@
         ]
     },
     {
-        "name": "Ultrafast photonics (I2) *",
+        "name": "Ultrafast photonics (I2)",
         "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=338&asig=17377&idioma=2",
         "credits": "3",
         "type": "E",
@@ -10927,7 +10927,7 @@
                     1
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10937,7 +10937,7 @@
                     1
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10958,7 +10958,7 @@
                     3
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10969,7 +10969,7 @@
                     4
                 ],
                 "time": "09:00",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10980,7 +10980,7 @@
                     4
                 ],
                 "time": "10:45",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             },
             {
                 "weeks": [
@@ -10990,7 +10990,7 @@
                     4
                 ],
                 "time": "12:30",
-                "room": "* DOCENCIA EXTERNA"
+                "room": "DOCENCIA EXTERNA"
             }
         ],
         "topics": [
@@ -10999,7 +10999,7 @@
         ]
     },
     {
-        "name": "Lab project II *",
+        "name": "Lab project II",
         "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=338&asig=17365&idioma=2",
         "credits": "3",
         "type": "E",
