@@ -1,0 +1,24 @@
+{
+  "name": "platform",
+  "version": "1.0.0",
+  "description": "Platforms for networked communities",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^8.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ale9412/platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ale9412/platform/issues"
+  },
+  "homepage": "https://github.com/ale9412/platform#readme"
+}
