@@ -1,0 +1,4024 @@
+[
+{
+"value": "scientific research",
+"synonyms": []
+},
+{
+"value": "creativity",
+"synonyms": [
+"creativity",
+"creativeness",
+"creative_thinking"
+]
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "computer engineering",
+"synonyms": []
+},
+{
+"value": "article publication",
+"synonyms": []
+},
+{
+"value": "seminars",
+"synonyms": [
+"seminar",
+"seminar"
+]
+},
+{
+"value": "knowledge to practic",
+"synonyms": []
+},
+{
+"value": "analysis",
+"synonyms": [
+"analysis",
+"analysis",
+"analytic_thinking",
+"analysis",
+"analysis"
+]
+},
+{
+"value": "learning skills",
+"synonyms": []
+},
+{
+"value": "critical analysis",
+"synonyms": []
+},
+{
+"value": "artificial intelligence",
+"synonyms": []
+},
+{
+"value": "neural networks",
+"synonyms": []
+},
+{
+"value": "biological computation",
+"synonyms": []
+},
+{
+"value": "algorithm",
+"synonyms": [
+"algorithm",
+"algorithmic_rule",
+"algorithmic_program"
+]
+},
+{
+"value": "bio-inspired systems",
+"synonyms": []
+},
+{
+"value": "automated planning",
+"synonyms": []
+},
+{
+"value": "planning",
+"synonyms": [
+"planning",
+"planning",
+"planning",
+"preparation",
+"provision"
+]
+},
+{
+"value": "algorithms",
+"synonyms": [
+"algorithm",
+"algorithmic_rule",
+"algorithmic_program"
+]
+},
+{
+"value": "machine learning",
+"synonyms": []
+},
+{
+"value": "knowledge representation",
+"synonyms": []
+},
+{
+"value": "multiagent systems",
+"synonyms": []
+},
+{
+"value": "communication",
+"synonyms": [
+"communication",
+"communicating",
+"communication",
+"communication"
+]
+},
+{
+"value": "coordination",
+"synonyms": [
+"coordination",
+"coordination",
+"coordination",
+"coordination"
+]
+},
+{
+"value": "distributed problems",
+"synonyms": []
+},
+{
+"value": "organization",
+"synonyms": [
+"organization",
+"organisation",
+"arrangement",
+"organization",
+"organisation"
+]
+},
+{
+"value": "software",
+"synonyms": [
+"software",
+"software_program",
+"computer_software",
+"software_system",
+"software_package"
+]
+},
+{
+"value": "project",
+"synonyms": [
+"undertaking",
+"project",
+"task",
+"labor",
+"project"
+]
+},
+{
+"value": "management",
+"synonyms": [
+"management",
+"direction",
+"management"
+]
+},
+{
+"value": "startup",
+"synonyms": [
+"startup",
+"inauguration",
+"startup"
+]
+},
+{
+"value": "plannig",
+"synonyms": []
+},
+{
+"value": "knowledge reuse",
+"synonyms": []
+},
+{
+"value": "software",
+"synonyms": [
+"software",
+"software_program",
+"computer_software",
+"software_system",
+"software_package"
+]
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "research",
+"synonyms": [
+"research",
+"inquiry",
+"enquiry",
+"research",
+"research"
+]
+},
+{
+"value": "representation",
+"synonyms": [
+"representation",
+"mental_representation",
+"internal_representation",
+"representation",
+"representation"
+]
+},
+{
+"value": "information",
+"synonyms": [
+"information",
+"info",
+"information",
+"information",
+"data"
+]
+},
+{
+"value": "engineering",
+"synonyms": [
+"technology",
+"engineering",
+"engineering",
+"engineering_science",
+"applied_science"
+]
+},
+{
+"value": "software",
+"synonyms": [
+"software",
+"software_program",
+"computer_software",
+"software_system",
+"software_package"
+]
+},
+{
+"value": "processes",
+"synonyms": [
+"procedure",
+"process",
+"process",
+"cognitive_process",
+"mental_process"
+]
+},
+{
+"value": "process evaluation",
+"synonyms": []
+},
+{
+"value": "models",
+"synonyms": [
+"model",
+"theoretical_account",
+"framework",
+"model",
+"model"
+]
+},
+{
+"value": "computer science",
+"synonyms": []
+},
+{
+"value": "distributed systems",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "algorithm",
+"synonyms": [
+"algorithm",
+"algorithmic_rule",
+"algorithmic_program"
+]
+},
+{
+"value": "simulation",
+"synonyms": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"value": "high performance",
+"synonyms": []
+},
+{
+"value": "scheduling",
+"synonyms": [
+"scheduling",
+"programming",
+"programing",
+"schedule",
+"schedule"
+]
+},
+{
+"value": "cryptographic",
+"synonyms": [
+"cryptanalytic",
+"cryptographic",
+"cryptographical",
+"cryptologic",
+"cryptological"
+]
+},
+{
+"value": "protocols",
+"synonyms": [
+"protocol",
+"communications_protocol",
+"protocol",
+"protocol"
+]
+},
+{
+"value": "hardware design",
+"synonyms": []
+},
+{
+"value": "cryptographic primitive",
+"synonyms": []
+},
+{
+"value": "advance computing",
+"synonyms": []
+},
+{
+"value": "programming",
+"synonyms": [
+"scheduling",
+"programming",
+"programing",
+"programming",
+"programing"
+]
+},
+{
+"value": "parallel programming",
+"synonyms": []
+},
+{
+"value": "heterogeneous computing",
+"synonyms": []
+},
+{
+"value": "programming models",
+"synonyms": []
+},
+{
+"value": "unconventional computing",
+"synonyms": []
+},
+{
+"value": "quantum computing",
+"synonyms": []
+},
+{
+"value": "biocomputing",
+"synonyms": []
+},
+{
+"value": "automatic programming",
+"synonyms": []
+},
+{
+"value": "machine learning",
+"synonyms": []
+},
+{
+"value": "deep learning",
+"synonyms": []
+},
+{
+"value": "neural networks",
+"synonyms": []
+},
+{
+"value": "algorithm",
+"synonyms": [
+"algorithm",
+"algorithmic_rule",
+"algorithmic_program"
+]
+},
+{
+"value": "reinforcement learning",
+"synonyms": []
+},
+{
+"value": "modeling",
+"synonyms": [
+"mold",
+"mould",
+"molding",
+"moulding",
+"modeling"
+]
+},
+{
+"value": "simulation",
+"synonyms": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"value": "optimization",
+"synonyms": [
+"optimization",
+"optimisation"
+]
+},
+{
+"value": "artificial inteligent",
+"synonyms": []
+},
+{
+"value": "optimization",
+"synonyms": [
+"optimization",
+"optimisation"
+]
+},
+{
+"value": "software development",
+"synonyms": []
+},
+{
+"value": "model driven",
+"synonyms": []
+},
+{
+"value": "arquitecture",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "startup",
+"synonyms": [
+"startup",
+"inauguration",
+"startup"
+]
+},
+{
+"value": "talent management",
+"synonyms": []
+},
+{
+"value": "managemenet",
+"synonyms": []
+},
+{
+"value": "organization",
+"synonyms": [
+"organization",
+"organisation",
+"arrangement",
+"organization",
+"organisation"
+]
+},
+{
+"value": "information technology",
+"synonyms": []
+},
+{
+"value": "teamwork",
+"synonyms": [
+"teamwork"
+]
+},
+{
+"value": "management",
+"synonyms": [
+"management",
+"direction",
+"management"
+]
+},
+{
+"value": "interface",
+"synonyms": [
+"interface",
+"interface",
+"user_interface",
+"interface",
+"interface"
+]
+},
+{
+"value": "natural language processing",
+"synonyms": []
+},
+{
+"value": "analogical",
+"synonyms": [
+"analogical"
+]
+},
+{
+"value": "digital",
+"synonyms": [
+"digital",
+"digital",
+"digital"
+]
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "systems",
+"synonyms": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"value": "electronic",
+"synonyms": [
+"electronic",
+"electronic"
+]
+},
+{
+"value": "electronic",
+"synonyms": [
+"electronic",
+"electronic"
+]
+},
+{
+"value": "systems",
+"synonyms": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"value": "photonic",
+"synonyms": []
+},
+{
+"value": "optical",
+"synonyms": [
+"optical",
+"ocular",
+"optic",
+"optical",
+"visual"
+]
+},
+{
+"value": "microelectronic",
+"synonyms": [
+"microelectronic"
+]
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "electronic",
+"synonyms": [
+"electronic",
+"electronic"
+]
+},
+{
+"value": "systems",
+"synonyms": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"value": "simulation",
+"synonyms": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"value": "signal processing",
+"synonyms": []
+},
+{
+"value": "electronic",
+"synonyms": [
+"electronic",
+"electronic"
+]
+},
+{
+"value": "disabled people",
+"synonyms": []
+},
+{
+"value": "assistance",
+"synonyms": [
+"aid",
+"assist",
+"assistance",
+"help",
+"aid"
+]
+},
+{
+"value": "systems",
+"synonyms": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"value": "embedded systems",
+"synonyms": []
+},
+{
+"value": "fpga",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "optimization",
+"synonyms": [
+"optimization",
+"optimisation"
+]
+},
+{
+"value": "microcontrollers",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "sensor",
+"synonyms": [
+"detector",
+"sensor",
+"sensing_element"
+]
+},
+{
+"value": "embedded systems",
+"synonyms": []
+},
+{
+"value": "network",
+"synonyms": [
+"network",
+"web",
+"network",
+"net",
+"network"
+]
+},
+{
+"value": "communication",
+"synonyms": [
+"communication",
+"communicating",
+"communication",
+"communication"
+]
+},
+{
+"value": "electronic",
+"synonyms": [
+"electronic",
+"electronic"
+]
+},
+{
+"value": "systems",
+"synonyms": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"value": "photonic",
+"synonyms": []
+},
+{
+"value": "fiber optic ",
+"synonyms": []
+},
+{
+"value": "circuits",
+"synonyms": [
+"circuit",
+"electrical_circuit",
+"electric_circuit",
+"tour",
+"circuit"
+]
+},
+{
+"value": "electronic",
+"synonyms": [
+"electronic",
+"electronic"
+]
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "converter",
+"synonyms": [
+"converter",
+"convertor"
+]
+},
+{
+"value": "electronic systems",
+"synonyms": []
+},
+{
+"value": "research",
+"synonyms": [
+"research",
+"inquiry",
+"enquiry",
+"research",
+"research"
+]
+},
+{
+"value": "innovation",
+"synonyms": [
+"invention",
+"innovation",
+"invention",
+"innovation",
+"excogitation"
+]
+},
+{
+"value": "intership",
+"synonyms": []
+},
+{
+"value": "experience",
+"synonyms": [
+"experience",
+"experience",
+"experience",
+"experience",
+"see"
+]
+},
+{
+"value": "electronic systems",
+"synonyms": []
+},
+{
+"value": "electronic systems",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "teamwork",
+"synonyms": [
+"teamwork"
+]
+},
+{
+"value": "meassure",
+"synonyms": []
+},
+{
+"value": "electronic systems",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "teamwork",
+"synonyms": [
+"teamwork"
+]
+},
+{
+"value": "meassure",
+"synonyms": []
+},
+{
+"value": "renewable energy",
+"synonyms": []
+},
+{
+"value": "converter",
+"synonyms": [
+"converter",
+"convertor"
+]
+},
+{
+"value": " electronic systems",
+"synonyms": []
+},
+{
+"value": "bioengineering",
+"synonyms": [
+"biotechnology",
+"bioengineering",
+"ergonomics"
+]
+},
+{
+"value": "electric vehicules",
+"synonyms": []
+},
+{
+"value": "sensor",
+"synonyms": [
+"detector",
+"sensor",
+"sensing_element"
+]
+},
+{
+"value": "signal",
+"synonyms": [
+"signal",
+"signaling",
+"sign",
+"signal",
+"signal"
+]
+},
+{
+"value": "meassurement",
+"synonyms": []
+},
+{
+"value": "biomedical",
+"synonyms": [
+"biomedical"
+]
+},
+{
+"value": "power systems",
+"synonyms": []
+},
+{
+"value": "electronic systems",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "circuit",
+"synonyms": [
+"circuit",
+"electrical_circuit",
+"electric_circuit",
+"tour",
+"circuit"
+]
+},
+{
+"value": "development",
+"synonyms": [
+"development",
+"development",
+"evolution",
+"growth",
+"growing"
+]
+},
+{
+"value": "electromagnetic",
+"synonyms": [
+"electromagnetic"
+]
+},
+{
+"value": "electronic system",
+"synonyms": []
+},
+{
+"value": "electromagnetic compatibility",
+"synonyms": []
+},
+{
+"value": "microprocessors",
+"synonyms": [
+"microprocessor"
+]
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "integrated circuits",
+"synonyms": []
+},
+{
+"value": "nanoelectronics",
+"synonyms": []
+},
+{
+"value": "microsystems",
+"synonyms": []
+},
+{
+"value": "electronic systems",
+"synonyms": []
+},
+{
+"value": "develpment",
+"synonyms": []
+},
+{
+"value": "integrated circuit",
+"synonyms": []
+},
+{
+"value": "photonic",
+"synonyms": []
+},
+{
+"value": "integrated optics",
+"synonyms": []
+},
+{
+"value": "photonic systems",
+"synonyms": []
+},
+{
+"value": "microsystems",
+"synonyms": []
+},
+{
+"value": "nanoelectronics",
+"synonyms": []
+},
+{
+"value": "sensor",
+"synonyms": [
+"detector",
+"sensor",
+"sensing_element"
+]
+},
+{
+"value": "quantum computing",
+"synonyms": []
+},
+{
+"value": "molecular electronics",
+"synonyms": []
+},
+{
+"value": "metatronics",
+"synonyms": []
+},
+{
+"value": "fluid mechanics",
+"synonyms": []
+},
+{
+"value": "calculus",
+"synonyms": [
+"calculus",
+"concretion",
+"tartar",
+"calculus",
+"tophus"
+]
+},
+{
+"value": "heat transfer",
+"synonyms": []
+},
+{
+"value": "fluid engineering",
+"synonyms": []
+},
+{
+"value": "thermal engineering",
+"synonyms": []
+},
+{
+"value": "fluid mechanics",
+"synonyms": []
+},
+{
+"value": "hydrodynamic",
+"synonyms": [
+"hydrodynamic"
+]
+},
+{
+"value": "claculus",
+"synonyms": []
+},
+{
+"value": "mathematical models",
+"synonyms": []
+},
+{
+"value": "structural mechanics",
+"synonyms": []
+},
+{
+"value": "elasticity",
+"synonyms": [
+"elasticity",
+"snap"
+]
+},
+{
+"value": "structural integrity",
+"synonyms": []
+},
+{
+"value": "structural stability",
+"synonyms": []
+},
+{
+"value": "mechanical engineering",
+"synonyms": []
+},
+{
+"value": "solid mechanics",
+"synonyms": []
+},
+{
+"value": "finite element method",
+"synonyms": []
+},
+{
+"value": "math",
+"synonyms": [
+"mathematics",
+"math",
+"maths"
+]
+},
+{
+"value": "elasticity",
+"synonyms": [
+"elasticity",
+"snap"
+]
+},
+{
+"value": "strength of materials",
+"synonyms": []
+},
+{
+"value": "mechanical engineering",
+"synonyms": []
+},
+{
+"value": "fotoelasticity",
+"synonyms": []
+},
+{
+"value": "testing",
+"synonyms": [
+"testing",
+"testing",
+"examination",
+"testing",
+"test"
+]
+},
+{
+"value": "simulation",
+"synonyms": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"value": "computer manufacturing",
+"synonyms": []
+},
+{
+"value": "manufacturing processes",
+"synonyms": []
+},
+{
+"value": "mechanical engineering",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "manufacturing process",
+"synonyms": []
+},
+{
+"value": "measuring procedures",
+"synonyms": []
+},
+{
+"value": "physical magnitudes",
+"synonyms": []
+},
+{
+"value": "calculus",
+"synonyms": [
+"calculus",
+"concretion",
+"tartar",
+"calculus",
+"tophus"
+]
+},
+{
+"value": "renewable energy",
+"synonyms": []
+},
+{
+"value": "power plant",
+"synonyms": []
+},
+{
+"value": "thermodynamics",
+"synonyms": [
+"thermodynamics"
+]
+},
+{
+"value": "energy",
+"synonyms": [
+"energy",
+"free_energy",
+"energy",
+"vigor",
+"vigour"
+]
+},
+{
+"value": "composite structure",
+"synonyms": []
+},
+{
+"value": "composite laminate",
+"synonyms": []
+},
+{
+"value": "Laminate design",
+"synonyms": []
+},
+{
+"value": " laminate beams",
+"synonyms": []
+},
+{
+"value": "data analysis",
+"synonyms": []
+},
+{
+"value": "mechanical sensors",
+"synonyms": []
+},
+{
+"value": "mechanical engineering",
+"synonyms": []
+},
+{
+"value": "masurements",
+"synonyms": []
+},
+{
+"value": "signal",
+"synonyms": [
+"signal",
+"signaling",
+"sign",
+"signal",
+"signal"
+]
+},
+{
+"value": "mechanical fluid",
+"synonyms": []
+},
+{
+"value": "signal analysis",
+"synonyms": []
+},
+{
+"value": "laser",
+"synonyms": [
+"laser",
+"optical_maser"
+]
+},
+{
+"value": "experimental technique",
+"synonyms": []
+},
+{
+"value": "technique fluid",
+"synonyms": []
+},
+{
+"value": "thermal engineering",
+"synonyms": []
+},
+{
+"value": "thermal process",
+"synonyms": []
+},
+{
+"value": "data acquisition",
+"synonyms": []
+},
+{
+"value": "data",
+"synonyms": [
+"data",
+"information",
+"datum",
+"data_point"
+]
+},
+{
+"value": "measurement",
+"synonyms": [
+"measurement",
+"measuring",
+"measure",
+"mensuration"
+]
+},
+{
+"value": "optimization techniques",
+"synonyms": []
+},
+{
+"value": "mechanical engineering",
+"synonyms": []
+},
+{
+"value": "optimization",
+"synonyms": [
+"optimization",
+"optimisation"
+]
+},
+{
+"value": "machine learning",
+"synonyms": []
+},
+{
+"value": "industrial construction",
+"synonyms": []
+},
+{
+"value": "design",
+"synonyms": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"value": "design structure",
+"synonyms": []
+},
+{
+"value": "structural elements",
+"synonyms": []
+},
+{
+"value": "interpolation",
+"synonyms": [
+"interpolation",
+"insertion",
+"interpolation",
+"interjection",
+"interposition"
+]
+},
+{
+"value": "error analysis",
+"synonyms": []
+},
+{
+"value": "Romberg\u00e2\u20ac\u2122s integration",
+"synonyms": []
+},
+{
+"value": "Newton\u00e2\u20ac\u2122s method",
+"synonyms": []
+},
+{
+"value": "Euler\u00e2\u20ac\u2122s method",
+"synonyms": []
+},
+{
+"value": "perturbation theory",
+"synonyms": []
+},
+{
+"value": "pseudoinverses",
+"synonyms": []
+},
+{
+"value": "canonical forms",
+"synonyms": []
+},
+{
+"value": "factorization",
+"synonyms": [
+"factorization",
+"factorisation",
+"factoring"
+]
+},
+{
+"value": "matrices",
+"synonyms": [
+"matrix",
+"matrix",
+"matrix",
+"matrix",
+"intercellular_substance"
+]
+},
+{
+"value": "measure theory",
+"synonyms": []
+},
+{
+"value": "Lp spaces",
+"synonyms": []
+},
+{
+"value": "Hp spaces",
+"synonyms": []
+},
+{
+"value": "Potential theory",
+"synonyms": []
+},
+{
+"value": "Banach spaces",
+"synonyms": []
+},
+{
+"value": "complex analysis",
+"synonyms": []
+},
+{
+"value": "random variables",
+"synonyms": []
+},
+{
+"value": "Markov",
+"synonyms": [
+"Markov",
+"Andrei_Markov",
+"Markoff",
+"Andre_Markoff"
+]
+},
+{
+"value": "estimators",
+"synonyms": [
+"calculator",
+"reckoner",
+"figurer",
+"estimator",
+"computer"
+]
+},
+{
+"value": "test of hypothesis",
+"synonyms": []
+},
+{
+"value": "nonparametric inference",
+"synonyms": []
+},
+{
+"value": "floating point",
+"synonyms": []
+},
+{
+"value": "factorization",
+"synonyms": [
+"factorization",
+"factorisation",
+"factoring"
+]
+},
+{
+"value": "eigenvalues",
+"synonyms": [
+"eigenvalue",
+"eigenvalue_of_a_matrix",
+"eigenvalue_of_a_square_matrix",
+"characteristic_root_of_a_square_matrix"
+]
+},
+{
+"value": "iterative methods",
+"synonyms": []
+},
+{
+"value": "QR algorithm",
+"synonyms": []
+},
+{
+"value": "multivariate regression",
+"synonyms": []
+},
+{
+"value": "least squares",
+"synonyms": []
+},
+{
+"value": "linear models",
+"synonyms": []
+},
+{
+"value": "GLM",
+"synonyms": []
+},
+{
+"value": "smoothing methods",
+"synonyms": []
+},
+{
+"value": "Hilbert spaces",
+"synonyms": []
+},
+{
+"value": "Fourier",
+"synonyms": [
+"Fourier",
+"Jean_Baptiste_Joseph_Fourier",
+"Baron_Jean_Baptiste_Joseph_Fourier",
+"Fourier",
+"Charles_Fourier"
+]
+},
+{
+"value": "Shannon",
+"synonyms": [
+"Shannon",
+"Claude_Shannon",
+"Claude_E._Shannon",
+"Claude_Elwood_Shannon"
+]
+},
+{
+"value": "orthonormal bases",
+"synonyms": []
+},
+{
+"value": "Riesz",
+"synonyms": []
+},
+{
+"value": "differential equations",
+"synonyms": []
+},
+{
+"value": "parabolic equations",
+"synonyms": []
+},
+{
+"value": "hyperbolic equations",
+"synonyms": []
+},
+{
+"value": "Elliptic equations",
+"synonyms": []
+},
+{
+"value": "Laplace",
+"synonyms": [
+"Laplace",
+"Marquis_de_Laplace",
+"Pierre_Simon_de_Laplace"
+]
+},
+{
+"value": "random variables",
+"synonyms": []
+},
+{
+"value": "Markov",
+"synonyms": [
+"Markov",
+"Andrei_Markov",
+"Markoff",
+"Andre_Markoff"
+]
+},
+{
+"value": "stochastic processes",
+"synonyms": []
+},
+{
+"value": "Brownian motion",
+"synonyms": []
+},
+{
+"value": "Martingales",
+"synonyms": [
+"martingale",
+"dolphin_striker",
+"martingale"
+]
+},
+{
+"value": "linear optimization",
+"synonyms": []
+},
+{
+"value": "combinatorial optimization",
+"synonyms": []
+},
+{
+"value": "stochastic optimization",
+"synonyms": []
+},
+{
+"value": "applications",
+"synonyms": [
+"application",
+"practical_application",
+"application",
+"application",
+"coating"
+]
+},
+{
+"value": "branch and bound",
+"synonyms": []
+},
+{
+"value": "power series",
+"synonyms": []
+},
+{
+"value": "graphs",
+"synonyms": [
+"graph",
+"graphical_record",
+"graph",
+"chart",
+"graph"
+]
+},
+{
+"value": "Markov",
+"synonyms": [
+"Markov",
+"Andrei_Markov",
+"Markoff",
+"Andre_Markoff"
+]
+},
+{
+"value": "harmonics functions",
+"synonyms": []
+},
+{
+"value": "Green's function",
+"synonyms": []
+},
+{
+"value": "thermodynamics",
+"synonyms": [
+"thermodynamics"
+]
+},
+{
+"value": "nonlinear dynamics",
+"synonyms": []
+},
+{
+"value": "bifurcations",
+"synonyms": [
+"bifurcation",
+"bifurcation",
+"bifurcation"
+]
+},
+{
+"value": "chaotic dynamics",
+"synonyms": []
+},
+{
+"value": "percolation",
+"synonyms": [
+"percolation",
+"infiltration",
+"percolation",
+"percolation"
+]
+},
+{
+"value": "random variables",
+"synonyms": []
+},
+{
+"value": "Stochastic processes",
+"synonyms": []
+},
+{
+"value": "Black-Scholes model",
+"synonyms": []
+},
+{
+"value": "Langevin simulation",
+"synonyms": []
+},
+{
+"value": "mathematical finance",
+"synonyms": []
+},
+{
+"value": "Fourier",
+"synonyms": [
+"Fourier",
+"Jean_Baptiste_Joseph_Fourier",
+"Baron_Jean_Baptiste_Joseph_Fourier",
+"Fourier",
+"Charles_Fourier"
+]
+},
+{
+"value": "hyperbolic equations",
+"synonyms": []
+},
+{
+"value": "Galerkin",
+"synonyms": []
+},
+{
+"value": "interpolation",
+"synonyms": [
+"interpolation",
+"insertion",
+"interpolation",
+"interjection",
+"interposition"
+]
+},
+{
+"value": "G-NI method",
+"synonyms": []
+},
+{
+"value": "random variables",
+"synonyms": []
+},
+{
+"value": "Borel-Cantelli",
+"synonyms": []
+},
+{
+"value": "large numbers",
+"synonyms": []
+},
+{
+"value": "Delta Method",
+"synonyms": []
+},
+{
+"value": "U-statistics",
+"synonyms": []
+},
+{
+"value": "Plugging estimation",
+"synonyms": []
+},
+{
+"value": "multivariate",
+"synonyms": [
+"multivariate"
+]
+},
+{
+"value": "kernel",
+"synonyms": [
+"kernel",
+"meat",
+"kernel",
+"kernel",
+"substance"
+]
+},
+{
+"value": "Bayes",
+"synonyms": [
+"Bayes",
+"Thomas_Bayes",
+"bay",
+"bay",
+"quest"
+]
+},
+{
+"value": "canonical correlation",
+"synonyms": []
+},
+{
+"value": "gaussian distribution",
+"synonyms": []
+},
+{
+"value": "unconstrained optimization",
+"synonyms": []
+},
+{
+"value": "constrained optimization",
+"synonyms": []
+},
+{
+"value": "stochastic optimization",
+"synonyms": []
+},
+{
+"value": "robust optimization",
+"synonyms": []
+},
+{
+"value": "optimality",
+"synonyms": []
+},
+{
+"value": "Bayes",
+"synonyms": [
+"Bayes",
+"Thomas_Bayes",
+"bay",
+"bay",
+"quest"
+]
+},
+{
+"value": "MCMC",
+"synonyms": []
+},
+{
+"value": "Monte Carlo",
+"synonyms": []
+},
+{
+"value": "time series",
+"synonyms": []
+},
+{
+"value": "regression",
+"synonyms": [
+"arrested_development",
+"fixation",
+"infantile_fixation",
+"regression",
+"regression"
+]
+},
+{
+"value": "FDA",
+"synonyms": [
+"Food_and_Drug_Administration",
+"FDA"
+]
+},
+{
+"value": "support vector Machines",
+"synonyms": []
+},
+{
+"value": "SVM",
+"synonyms": []
+},
+{
+"value": "kernel",
+"synonyms": [
+"kernel",
+"meat",
+"kernel",
+"kernel",
+"substance"
+]
+},
+{
+"value": "regression",
+"synonyms": [
+"arrested_development",
+"fixation",
+"infantile_fixation",
+"regression",
+"regression"
+]
+},
+{
+"value": "Riccati equations",
+"synonyms": []
+},
+{
+"value": "Pontryagin's maximum principle",
+"synonyms": []
+},
+{
+"value": "control mechanical systems",
+"synonyms": []
+},
+{
+"value": "affine-linear control",
+"synonyms": []
+},
+{
+"value": "linear control systems",
+"synonyms": []
+},
+{
+"value": "discrete models",
+"synonyms": []
+},
+{
+"value": "diffusion systems",
+"synonyms": []
+},
+{
+"value": "chemical kinetics",
+"synonyms": []
+},
+{
+"value": "biological oscillators",
+"synonyms": []
+},
+{
+"value": "Belousov-Zhabotinski",
+"synonyms": []
+},
+{
+"value": "orthogonal polynomials",
+"synonyms": []
+},
+{
+"value": "Pad\u00c3\u00a9 approximation",
+"synonyms": []
+},
+{
+"value": "orthogonality",
+"synonyms": [
+"orthogonality",
+"perpendicularity",
+"orthogonal_opposition",
+"orthogonality"
+]
+},
+{
+"value": "Liouville",
+"synonyms": []
+},
+{
+"value": "rational approximation",
+"synonyms": []
+},
+{
+"value": "ARIMA",
+"synonyms": []
+},
+{
+"value": "autoregressive models",
+"synonyms": []
+},
+{
+"value": "spectral analysis",
+"synonyms": []
+},
+{
+"value": "Holt-Winters",
+"synonyms": []
+},
+{
+"value": "smoothing methods",
+"synonyms": []
+},
+{
+"value": "discrete dependent variables",
+"synonyms": []
+},
+{
+"value": "OLS estimators",
+"synonyms": []
+},
+{
+"value": "panel data",
+"synonyms": []
+},
+{
+"value": "limited dependent variable",
+"synonyms": []
+},
+{
+"value": "regression",
+"synonyms": [
+"arrested_development",
+"fixation",
+"infantile_fixation",
+"regression",
+"regression"
+]
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "radar",
+"synonyms": [
+"radar",
+"microwave_radar",
+"radio_detection_and_ranging",
+"radiolocation"
+]
+},
+{
+"value": "navigation",
+"synonyms": [
+"navigation",
+"pilotage",
+"piloting",
+"navigation",
+"seafaring"
+]
+},
+{
+"value": "radar_systems",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "signal_processing",
+"synonyms": []
+},
+{
+"value": "statistical_signal_processing",
+"synonyms": []
+},
+{
+"value": "model_based_signal_processing",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "terrestrial_communications",
+"synonyms": []
+},
+{
+"value": "space_communications",
+"synonyms": []
+},
+{
+"value": "communication_architecture",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "broadband_communications",
+"synonyms": []
+},
+{
+"value": "ofdm",
+"synonyms": []
+},
+{
+"value": "mimo",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "high_frequency",
+"synonyms": [
+"high_frequency",
+"HF",
+"high_pitch",
+"high_frequency"
+]
+},
+{
+"value": "millimiter_wave",
+"synonyms": []
+},
+{
+"value": "active_systems",
+"synonyms": []
+},
+{
+"value": "passive_systems",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "antennas",
+"synonyms": [
+"antenna",
+"aerial",
+"transmitting_aerial",
+"antenna",
+"feeler"
+]
+},
+{
+"value": "antenna_technology",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "information_theory",
+"synonyms": [
+"information_theory"
+]
+},
+{
+"value": "digital_communication",
+"synonyms": [
+"digital_communication",
+"data_communication"
+]
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "computational_electromagnetism",
+"synonyms": []
+},
+{
+"value": "mathematical_modelling",
+"synonyms": []
+},
+{
+"value": "hpc",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "computational_electromagnetism",
+"synonyms": []
+},
+{
+"value": "mathematical_modelling",
+"synonyms": []
+},
+{
+"value": "hpc",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "channel_coding",
+"synonyms": []
+},
+{
+"value": "mimo_systems",
+"synonyms": []
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "simulation",
+"synonyms": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"value": "optimization",
+"synonyms": [
+"optimization",
+"optimisation"
+]
+},
+{
+"value": "communication_systems",
+"synonyms": [
+"communication_system",
+"communication_system",
+"communication_equipment"
+]
+},
+{
+"value": "advanced_communications",
+"synonyms": []
+},
+{
+"value": "scientific_methodology",
+"synonyms": []
+},
+{
+"value": "Fuzzy relations",
+"synonyms": []
+},
+{
+"value": "Fuzzy modeling systems",
+"synonyms": []
+},
+{
+"value": "Fundamentals of neural networks",
+"synonyms": []
+},
+{
+"value": "Control systems",
+"synonyms": []
+},
+{
+"value": "Non-derivative methods",
+"synonyms": []
+},
+{
+"value": "Autonomy",
+"synonyms": [
+"autonomy",
+"liberty",
+"autonomy",
+"self-direction",
+"self-reliance"
+]
+},
+{
+"value": "Intelligence",
+"synonyms": [
+"intelligence",
+"intelligence",
+"intelligence_service",
+"intelligence_agency",
+"intelligence"
+]
+},
+{
+"value": "Control architectures of robots",
+"synonyms": []
+},
+{
+"value": "Robot learning",
+"synonyms": []
+},
+{
+"value": "Robot perception",
+"synonyms": []
+},
+{
+"value": "Decision making",
+"synonyms": []
+},
+{
+"value": "Bottom-up design",
+"synonyms": []
+},
+{
+"value": "Image preprocessing",
+"synonyms": []
+},
+{
+"value": "Top-down design",
+"synonyms": []
+},
+{
+"value": "Optimization",
+"synonyms": [
+"optimization",
+"optimisation"
+]
+},
+{
+"value": "Stereo Vision",
+"synonyms": []
+},
+{
+"value": "Models of robots and environment",
+"synonyms": []
+},
+{
+"value": "Classic aproaches of path-planning",
+"synonyms": []
+},
+{
+"value": "Roadmaps",
+"synonyms": []
+},
+{
+"value": "Celd Decomposition",
+"synonyms": []
+},
+{
+"value": "Probabilistical methods",
+"synonyms": []
+},
+{
+"value": "ROS",
+"synonyms": [
+"Ro"
+]
+},
+{
+"value": "Communications methods",
+"synonyms": []
+},
+{
+"value": "Programming nodes",
+"synonyms": []
+},
+{
+"value": "Services",
+"synonyms": [
+"services",
+"service",
+"service",
+"service",
+"religious_service"
+]
+},
+{
+"value": "Services",
+"synonyms": [
+"services",
+"service",
+"service",
+"service",
+"religious_service"
+]
+},
+{
+"value": "Timers",
+"synonyms": [
+"timer",
+"timekeeper",
+"timer",
+"timer"
+]
+},
+{
+"value": "ABB manipultators",
+"synonyms": []
+},
+{
+"value": "IRC5 controller",
+"synonyms": []
+},
+{
+"value": "Robot Programming",
+"synonyms": []
+},
+{
+"value": "Kinematic Control",
+"synonyms": []
+},
+{
+"value": "manufacturing system",
+"synonyms": []
+},
+{
+"value": "OmEdit and DrModelica",
+"synonyms": []
+},
+{
+"value": "Connectors",
+"synonyms": [
+"connection",
+"connexion",
+"connector",
+"connecter",
+"connective"
+]
+},
+{
+"value": "Hybrid systems",
+"synonyms": []
+},
+{
+"value": "Discrete time systems",
+"synonyms": []
+},
+{
+"value": " modeling and simulation",
+"synonyms": []
+},
+{
+"value": "Hybrid systems",
+"synonyms": []
+},
+{
+"value": "Machine Learning",
+"synonyms": []
+},
+{
+"value": " Techniques for data classification",
+"synonyms": []
+},
+{
+"value": "Regression techniques",
+"synonyms": []
+},
+{
+"value": "Clustering techniques",
+"synonyms": []
+},
+{
+"value": "Deep Learning",
+"synonyms": []
+},
+{
+"value": "Medicine",
+"synonyms": [
+"medicine",
+"medical_specialty",
+"medicine",
+"medication",
+"medicament"
+]
+},
+{
+"value": "Typology of applications",
+"synonyms": []
+},
+{
+"value": "robots in construction",
+"synonyms": []
+},
+{
+"value": "Construction of structures",
+"synonyms": []
+},
+{
+"value": "ICTs in construction",
+"synonyms": []
+},
+{
+"value": "Intelligent Transport Systems",
+"synonyms": []
+},
+{
+"value": "Autonomous Systems",
+"synonyms": []
+},
+{
+"value": "Driver Assistance Systems",
+"synonyms": []
+},
+{
+"value": "Traffic Signal Recognition System",
+"synonyms": []
+},
+{
+"value": " Control Monitoring Systems",
+"synonyms": []
+},
+{
+"value": "methods of robotics",
+"synonyms": []
+},
+{
+"value": "Kinematics",
+"synonyms": [
+"kinematics"
+]
+},
+{
+"value": "Generation of gaits of humanoids",
+"synonyms": []
+},
+{
+"value": " Control Architecture",
+"synonyms": []
+},
+{
+"value": "Architecture",
+"synonyms": [
+"architecture",
+"architecture",
+"architecture",
+"computer_architecture",
+"architecture"
+]
+},
+{
+"value": "Conceptual design",
+"synonyms": []
+},
+{
+"value": "Data Links",
+"synonyms": []
+},
+{
+"value": "Payloads",
+"synonyms": [
+"warhead",
+"payload",
+"load",
+"cargo",
+"lading"
+]
+},
+{
+"value": "SWOT Analysis",
+"synonyms": []
+},
+{
+"value": "Robots",
+"synonyms": [
+"automaton",
+"robot",
+"golem"
+]
+},
+{
+"value": "Mining robots",
+"synonyms": []
+},
+{
+"value": "Control of field robots",
+"synonyms": []
+},
+{
+"value": " Sensory systems",
+"synonyms": []
+},
+{
+"value": " Control of field robots",
+"synonyms": []
+},
+{
+"value": "Programming",
+"synonyms": [
+"scheduling",
+"programming",
+"programing",
+"programming",
+"programing"
+]
+},
+{
+"value": "Design and simulation",
+"synonyms": []
+},
+{
+"value": "Task control",
+"synonyms": []
+},
+{
+"value": "Multi-robot systems",
+"synonyms": []
+},
+{
+"value": "Cooperative robots",
+"synonyms": []
+},
+{
+"value": "Medical robotics",
+"synonyms": []
+},
+{
+"value": "Rehabilitation robotics",
+"synonyms": []
+},
+{
+"value": "Exoskeletons",
+"synonyms": [
+"exoskeleton"
+]
+},
+{
+"value": "Assistive robots",
+"synonyms": []
+},
+{
+"value": "DLAs",
+"synonyms": []
+},
+{
+"value": "Platforms of assistance robots",
+"synonyms": []
+},
+{
+"value": "Applications",
+"synonyms": [
+"application",
+"practical_application",
+"application",
+"application",
+"coating"
+]
+},
+{
+"value": "Social robots",
+"synonyms": []
+},
+{
+"value": "Intelligent houses",
+"synonyms": []
+},
+{
+"value": "Technical problems",
+"synonyms": []
+},
+{
+"value": "Logic Systems",
+"synonyms": []
+},
+{
+"value": "State Diagrams",
+"synonyms": []
+},
+{
+"value": " Automata Programming",
+"synonyms": []
+},
+{
+"value": "Ladder Programming",
+"synonyms": []
+},
+{
+"value": "Grafcet (SFC)",
+"synonyms": []
+},
+{
+"value": "Teleoperation",
+"synonyms": []
+},
+{
+"value": "Technologies Devices",
+"synonyms": []
+},
+{
+"value": "Design specifications",
+"synonyms": []
+},
+{
+"value": "Teleoperation architectures",
+"synonyms": []
+},
+{
+"value": "Force-Torque Control",
+"synonyms": []
+},
+{
+"value": "Applications",
+"synonyms": [
+"application",
+"practical_application",
+"application",
+"application",
+"coating"
+]
+},
+{
+"value": "Robots",
+"synonyms": [
+"automaton",
+"robot",
+"golem"
+]
+},
+{
+"value": "developed grippers",
+"synonyms": []
+},
+{
+"value": " complex robotics",
+"synonyms": []
+},
+{
+"value": "Mobile Robots",
+"synonyms": []
+},
+{
+"value": "Geometric navigation",
+"synonyms": []
+},
+{
+"value": "Topological navigation",
+"synonyms": []
+},
+{
+"value": "Semantic Navigation",
+"synonyms": []
+},
+{
+"value": "Terrain modeling",
+"synonyms": []
+},
+{
+"value": "Mobile Robot",
+"synonyms": []
+},
+{
+"value": "3D",
+"synonyms": [
+"three-D",
+"3-D",
+"3D",
+"three-D",
+"3-D"
+]
+},
+{
+"value": "Sensors",
+"synonyms": [
+"detector",
+"sensor",
+"sensing_element"
+]
+},
+{
+"value": "Techniques",
+"synonyms": [
+"technique",
+"proficiency",
+"technique"
+]
+},
+{
+"value": "Segmentation",
+"synonyms": [
+"cleavage",
+"segmentation",
+"division",
+"partition",
+"partitioning"
+]
+},
+{
+"value": "Robotic applications ",
+"synonyms": []
+},
+{
+"value": "Human-Robot",
+"synonyms": []
+},
+{
+"value": "Components of a simulator",
+"synonyms": []
+},
+{
+"value": "Gazebo Files",
+"synonyms": []
+},
+{
+"value": "SDF",
+"synonyms": []
+},
+{
+"value": "URDF",
+"synonyms": []
+},
+{
+"value": "OpenRAVE",
+"synonyms": []
+},
+{
+"value": "Introduction",
+"synonyms": [
+"introduction",
+"debut",
+"first_appearance",
+"launching",
+"unveiling"
+]
+},
+{
+"value": "research",
+"synonyms": [
+"research",
+"inquiry",
+"enquiry",
+"research",
+"research"
+]
+},
+{
+"value": "robotics",
+"synonyms": [
+"robotics"
+]
+},
+{
+"value": "automation",
+"synonyms": [
+"automation",
+"mechanization",
+"mechanisation",
+"automation",
+"automation"
+]
+},
+{
+"value": "plasma",
+"synonyms": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"value": "fluids",
+"synonyms": [
+"fluid",
+"fluid"
+]
+},
+{
+"value": "kinetic theory",
+"synonyms": []
+},
+{
+"value": "physics",
+"synonyms": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"value": "particle",
+"synonyms": [
+"atom",
+"molecule",
+"particle",
+"corpuscle",
+"mote"
+]
+},
+{
+"value": "quantum mechanics",
+"synonyms": []
+},
+{
+"value": "harmonic oscillator",
+"synonyms": []
+},
+{
+"value": "particle dynamics",
+"synonyms": []
+},
+{
+"value": "central forces",
+"synonyms": []
+},
+{
+"value": "molecules",
+"synonyms": [
+"molecule",
+"atom",
+"molecule",
+"particle",
+"corpuscle"
+]
+},
+{
+"value": "gas",
+"synonyms": [
+"gas",
+"gaseous_state",
+"gas",
+"gasoline",
+"gasolene"
+]
+},
+{
+"value": "fluids",
+"synonyms": [
+"fluid",
+"fluid"
+]
+},
+{
+"value": "nozzles",
+"synonyms": [
+"nozzle",
+"nose",
+"beak",
+"honker",
+"hooter"
+]
+},
+{
+"value": "fluid dynamic",
+"synonyms": []
+},
+{
+"value": "Mach number",
+"synonyms": []
+},
+{
+"value": "nuclear fusion",
+"synonyms": []
+},
+{
+"value": "electrodynamics",
+"synonyms": []
+},
+{
+"value": "electromagnetic theory",
+"synonyms": []
+},
+{
+"value": "particle dynamics",
+"synonyms": []
+},
+{
+"value": "applied electromagnetism",
+"synonyms": []
+},
+{
+"value": "descriptive adjectives",
+"synonyms": []
+},
+{
+"value": "present tense",
+"synonyms": []
+},
+{
+"value": "subjunctive",
+"synonyms": [
+"subjunctive_mood",
+"subjunctive",
+"subjunctive"
+]
+},
+{
+"value": "imperative",
+"synonyms": [
+"imperative_mood",
+"imperative",
+"jussive_mood",
+"imperative_form",
+"imperative"
+]
+},
+{
+"value": "language",
+"synonyms": [
+"language",
+"linguistic_communication",
+"speech",
+"speech_communication",
+"spoken_communication"
+]
+},
+{
+"value": "culture",
+"synonyms": [
+"culture",
+"civilization",
+"civilisation",
+"culture",
+"acculturation"
+]
+},
+{
+"value": "ordinary differential equations",
+"synonyms": []
+},
+{
+"value": "linear algebra",
+"synonyms": []
+},
+{
+"value": "Eulerian Methods",
+"synonyms": []
+},
+{
+"value": "Lagrangian methods",
+"synonyms": []
+},
+{
+"value": "partial differential equations",
+"synonyms": []
+},
+{
+"value": "plasma",
+"synonyms": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"value": "physics",
+"synonyms": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"value": "nuclear",
+"synonyms": [
+"nuclear",
+"atomic",
+"nuclear",
+"nuclear",
+"nuclear"
+]
+},
+{
+"value": "mechanical properties",
+"synonyms": []
+},
+{
+"value": "fusion",
+"synonyms": [
+"fusion",
+"merger",
+"unification",
+"coalition",
+"fusion"
+]
+},
+{
+"value": "laboratory",
+"synonyms": [
+"lab",
+"laboratory",
+"research_lab",
+"research_laboratory",
+"science_lab"
+]
+},
+{
+"value": "plasma",
+"synonyms": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"value": "physics",
+"synonyms": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"value": "nuclear",
+"synonyms": [
+"nuclear",
+"atomic",
+"nuclear",
+"nuclear",
+"nuclear"
+]
+},
+{
+"value": "mechanical properties",
+"synonyms": []
+},
+{
+"value": "fusion",
+"synonyms": [
+"fusion",
+"merger",
+"unification",
+"coalition",
+"fusion"
+]
+},
+{
+"value": "diffusion",
+"synonyms": [
+"diffusion",
+"diffusion",
+"dissemination",
+"diffusion",
+"dispersion"
+]
+},
+{
+"value": "phase diagrams",
+"synonyms": []
+},
+{
+"value": "degradation",
+"synonyms": [
+"degradation",
+"debasement",
+"abasement",
+"degradation",
+"abjection"
+]
+},
+{
+"value": "processing",
+"synonyms": [
+"processing",
+"process",
+"treat",
+"process",
+"process"
+]
+},
+{
+"value": "types of materials",
+"synonyms": []
+},
+{
+"value": "Bose-Einstein gas",
+"synonyms": []
+},
+{
+"value": "Fermi gas",
+"synonyms": []
+},
+{
+"value": "physics",
+"synonyms": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"value": "phase transitions",
+"synonyms": []
+},
+{
+"value": "Boltzmann",
+"synonyms": [
+"Boltzmann",
+"Ludwig_Boltzmann"
+]
+},
+{
+"value": "atoms",
+"synonyms": [
+"atom",
+"atom",
+"molecule",
+"particle",
+"corpuscle"
+]
+},
+{
+"value": "atomic structure",
+"synonyms": []
+},
+{
+"value": "molecules",
+"synonyms": [
+"molecule",
+"atom",
+"molecule",
+"particle",
+"corpuscle"
+]
+},
+{
+"value": "Born-Oppenheimer",
+"synonyms": []
+},
+{
+"value": "spectroscopy",
+"synonyms": [
+"spectroscopy",
+"spectrometry",
+"spectroscopic_analysis",
+"spectrum_analysis",
+"spectrographic_analysis"
+]
+},
+{
+"value": "fusion power",
+"synonyms": []
+},
+{
+"value": "stellarators",
+"synonyms": []
+},
+{
+"value": "plasma",
+"synonyms": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"value": "tokamak",
+"synonyms": [
+"tokamak"
+]
+},
+{
+"value": "confinement",
+"synonyms": [
+"parturiency",
+"labor",
+"labour",
+"confinement",
+"lying-in"
+]
+},
+{
+"value": "plasma",
+"synonyms": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"value": "magnetic measurements",
+"synonyms": []
+},
+{
+"value": "particle",
+"synonyms": [
+"atom",
+"molecule",
+"particle",
+"corpuscle",
+"mote"
+]
+},
+{
+"value": "spectroscopy",
+"synonyms": [
+"spectroscopy",
+"spectrometry",
+"spectroscopic_analysis",
+"spectrum_analysis",
+"spectrographic_analysis"
+]
+},
+{
+"value": "microwave",
+"synonyms": [
+"microwave",
+"microwave",
+"microwave_oven",
+"microwave",
+"micro-cook"
+]
+},
+{
+"value": "plasma",
+"synonyms": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"value": "particle methods",
+"synonyms": []
+},
+{
+"value": "spectral methods",
+"synonyms": []
+},
+{
+"value": "parallel programming",
+"synonyms": []
+},
+{
+"value": "linear analysis",
+"synonyms": []
+},
+{
+"value": "magnetic confinement",
+"synonyms": []
+},
+{
+"value": "Vacuum vessel",
+"synonyms": []
+},
+{
+"value": "fusion energy",
+"synonyms": []
+},
+{
+"value": "electrical systems",
+"synonyms": []
+},
+{
+"value": "cryostat",
+"synonyms": [
+"cryostat"
+]
+},
+{
+"value": "Navier-Stokes",
+"synonyms": []
+},
+{
+"value": "turbulence",
+"synonyms": [
+"turbulence",
+"turbulency",
+"turbulence",
+"turbulence",
+"upheaval"
+]
+},
+{
+"value": "fluids",
+"synonyms": [
+"fluid",
+"fluid"
+]
+},
+{
+"value": "magnetohydrodynamic",
+"synonyms": []
+},
+{
+"value": "fusion plasmas",
+"synonyms": []
+},
+{
+"value": "physics",
+"synonyms": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"value": "MHD",
+"synonyms": []
+},
+{
+"value": "magnetohydrodynamic",
+"synonyms": []
+},
+{
+"value": "equilibrium",
+"synonyms": [
+"equilibrium",
+"chemical_equilibrium",
+"equilibrium",
+"balance",
+"equilibrium"
+]
+},
+{
+"value": "magnetic diagnostics",
+"synonyms": []
+},
+{
+"value": "MHD stability",
+"synonyms": []
+},
+{
+"value": "astrophysics",
+"synonyms": [
+"astrophysics"
+]
+},
+{
+"value": "plasma",
+"synonyms": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"value": "MHD",
+"synonyms": []
+},
+{
+"value": "orbits",
+"synonyms": [
+"orbit",
+"celestial_orbit",
+"sphere",
+"domain",
+"area"
+]
+},
+{
+"value": "environment",
+"synonyms": [
+"environment",
+"environment",
+"environs",
+"surroundings",
+"surround"
+]
+},
+{
+"value": "nuclear fusion",
+"synonyms": []
+},
+{
+"value": "fast ignition",
+"synonyms": []
+},
+{
+"value": "hydrodynamics",
+"synonyms": [
+"hydrodynamics",
+"hydrokinetics"
+]
+},
+{
+"value": "reactions",
+"synonyms": [
+"chemical_reaction",
+"reaction",
+"reaction",
+"reaction",
+"response"
+]
+},
+{
+"value": "atomic conditions",
+"synonyms": []
+},
+{
+"value": "modelling",
+"synonyms": [
+"modeling",
+"modelling",
+"molding",
+"moulding",
+"model"
+]
+},
+{
+"value": "Grad-Safranov",
+"synonyms": []
+},
+{
+"value": "MHD",
+"synonyms": []
+},
+{
+"value": "Parabolic",
+"synonyms": [
+"parabolic",
+"parabolical",
+"parabolic",
+"parabolical"
+]
+},
+{
+"value": "Asymptotic",
+"synonyms": [
+"asymptotic"
+]
+},
+{
+"value": "atomic structure",
+"synonyms": []
+},
+{
+"value": "molecular structure",
+"synonyms": []
+},
+{
+"value": "collisions",
+"synonyms": [
+"collision",
+"hit",
+"collision",
+"collision"
+]
+},
+{
+"value": "scattering",
+"synonyms": [
+"scattering",
+"sprinkling",
+"scattering",
+"scattering",
+"sprinkle"
+]
+},
+{
+"value": "R-matrix",
+"synonyms": []
+},
+{
+"value": "materials",
+"synonyms": [
+"material",
+"stuff",
+"material",
+"fabric",
+"cloth"
+]
+},
+{
+"value": "fusion reactions",
+"synonyms": []
+},
+{
+"value": "radiation damage",
+"synonyms": []
+},
+{
+"value": "RD",
+"synonyms": []
+},
+{
+"value": "ion radiation",
+"synonyms": []
+},
+{
+"value": "oxide dispersion strengthened",
+"synonyms": []
+},
+{
+"value": "particle recycling",
+"synonyms": []
+},
+{
+"value": "wall coatings",
+"synonyms": []
+},
+{
+"value": "divertors",
+"synonyms": []
+},
+{
+"value": "plasma interactions",
+"synonyms": []
+},
+{
+"value": "material selection",
+"synonyms": []
+},
+{
+"value": "robot history",
+"synonyms": []
+},
+{
+"value": "Force-Torque",
+"synonyms": []
+},
+{
+"value": "teleoperation",
+"synonyms": []
+},
+{
+"value": "human factors",
+"synonyms": []
+},
+{
+"value": "simulators",
+"synonyms": [
+"simulator"
+]
+},
+{
+"value": "nuclear radioactivity",
+"synonyms": []
+},
+{
+"value": "decays",
+"synonyms": [
+"decay",
+"decay",
+"decline",
+"decay",
+"decomposition"
+]
+},
+{
+"value": "nuclear structure",
+"synonyms": []
+},
+{
+"value": "fission",
+"synonyms": [
+"fission",
+"fission",
+"nuclear_fission"
+]
+},
+{
+"value": "fusion",
+"synonyms": [
+"fusion",
+"merger",
+"unification",
+"coalition",
+"fusion"
+]
+},
+{
+"value": "inductively coupled plasmas",
+"synonyms": []
+},
+{
+"value": "surface wave",
+"synonyms": []
+},
+{
+"value": "plasma applications",
+"synonyms": []
+},
+{
+"value": "laboratory",
+"synonyms": [
+"lab",
+"laboratory",
+"research_lab",
+"research_laboratory",
+"science_lab"
+]
+},
+{
+"value": "ICP",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "photonics_technologies",
+"synonyms": []
+},
+{
+"value": "optic_systems",
+"synonyms": []
+},
+{
+"value": "optical_elements",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "photonics_technologies",
+"synonyms": []
+},
+{
+"value": "photonic_system_design",
+"synonyms": []
+},
+{
+"value": "photonics_research",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "photonics_technologies",
+"synonyms": []
+},
+{
+"value": "photonic_system_design",
+"synonyms": []
+},
+{
+"value": "photonics_research",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "simulation_tools",
+"synonyms": []
+},
+{
+"value": "photonics_simulations",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "assistive_photonics",
+"synonyms": []
+},
+{
+"value": "photonic_system_design",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "organic_photonics",
+"synonyms": []
+},
+{
+"value": "organic_devices",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "fiber_optic",
+"synonyms": []
+},
+{
+"value": "sensing",
+"synonyms": [
+"detection",
+"sensing",
+"sensing",
+"perception",
+"feel"
+]
+},
+{
+"value": "distributed_sensing",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "optical_communications",
+"synonyms": []
+},
+{
+"value": "optical_access_networks",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "imaging_systems",
+"synonyms": []
+},
+{
+"value": "2d_imaging",
+"synonyms": []
+},
+{
+"value": "3d_imaging",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "lidar",
+"synonyms": [
+"lidar"
+]
+},
+{
+"value": "lidar_applications",
+"synonyms": []
+},
+{
+"value": "lidar_technologies",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "optical_sensor_networks",
+"synonyms": []
+},
+{
+"value": "network_architecture",
+"synonyms": [
+"network_architecture"
+]
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "nanophotonics",
+"synonyms": []
+},
+{
+"value": "nanotechnologies",
+"synonyms": [
+"nanotechnology"
+]
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "integrated_circuits",
+"synonyms": [
+"integrated_circuit",
+"microcircuit"
+]
+},
+{
+"value": "optical_circuits",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "semiconductor_lasers",
+"synonyms": []
+},
+{
+"value": "laser",
+"synonyms": [
+"laser",
+"optical_maser"
+]
+},
+{
+"value": "laser_diodes",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "ultrafast_photonics",
+"synonyms": []
+},
+{
+"value": "photonics_applications",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "biophotonics",
+"synonyms": []
+},
+{
+"value": "bioimaging",
+"synonyms": []
+},
+{
+"value": "biosensors",
+"synonyms": []
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "project",
+"synonyms": [
+"undertaking",
+"project",
+"task",
+"labor",
+"project"
+]
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "project",
+"synonyms": [
+"undertaking",
+"project",
+"task",
+"labor",
+"project"
+]
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "seminars",
+"synonyms": [
+"seminar",
+"seminar"
+]
+},
+{
+"value": "photonics_engineering",
+"synonyms": []
+},
+{
+"value": "internship",
+"synonyms": [
+"internship"
+]
+}
+]
