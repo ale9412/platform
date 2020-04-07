@@ -4,8 +4,6 @@ import pandas
 from matplotlib import pyplot as plt
 #nltk.download('stopwords')
 from nltk.corpus import stopwords
-from nltk.stem.porter import PorterStemmer
-from nltk.tokenize import RegexpTokenizer
 
 # nltk.download('wordnet') 
 from nltk.stem.wordnet import WordNetLemmatizer
