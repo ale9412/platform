@@ -78,11 +78,16 @@
             }
         ],
         "topics": [
-            "scientific research",
-            "creativity",
-            "design",
-            "computer engineering",
-            "article publication"
+            "environments",
+            "know",
+            "skills",
+            "tools",
+            "application",
+            "audience",
+            "continue",
+            "enable",
+            "finding",
+            "general"
         ]
     },
     {
@@ -108,11 +113,16 @@
             }
         ],
         "topics": [
-            "seminars",
-            "knowledge to practic",
-            "analysis",
-            "learning skills",
-            "critical analysis"
+            "aims",
+            "basis",
+            "complexity",
+            "field",
+            "gain",
+            "provide",
+            "technical",
+            "understanding",
+            "applying",
+            "enable"
         ]
     },
     {
@@ -154,11 +164,16 @@
             }
         ],
         "topics": [
-            "artificial intelligence",
-            "neural networks",
-            "biological computation",
-            "algorithm",
-            "bio-inspired systems"
+            "classroom",
+            "develop",
+            "objectives",
+            "robotics",
+            "class=",
+            "foundations",
+            "cellular",
+            "colonies",
+            "developed",
+            "expand"
         ]
     },
     {
@@ -200,11 +215,16 @@
             }
         ],
         "topics": [
-            "automated planning",
-            "planning",
-            "algorithms",
-            "machine learning",
-            "knowledge representation"
+            "hours",
+            "analyze",
+            "bases",
+            "characterize",
+            "class",
+            "classes",
+            "data",
+            "different",
+            "discussed",
+            "early"
         ]
     },
     {
@@ -246,11 +266,16 @@
             }
         ],
         "topics": [
-            "multiagent systems",
-            "communication",
-            "coordination",
-            "distributed problems",
-            "organization"
+            "deeply",
+            "mulltiagente",
+            "according",
+            "agents",
+            "applications",
+            "approaches",
+            "behavior",
+            "class=",
+            "collaboration",
+            "concept"
         ]
     },
     {
@@ -291,11 +316,16 @@
             }
         ],
         "topics": [
-            "software",
-            "project",
-            "management",
-            "startup",
-            "plannig"
+            "assignments",
+            "companies",
+            "determination",
+            "elearning",
+            "exercises",
+            "gesti\u00f3n",
+            "knowledge",
+            "performance",
+            "regarding",
+            "subject"
         ]
     },
     {
@@ -310,13 +340,16 @@
         "id": "16447",
         "schedule": [],
         "topics": [
-            "knowledge reuse",
+            "allow",
+            "aspects",
+            "knowledge",
+            "main",
+            "outcomes",
+            "previous",
+            "recent",
+            "retrieval",
             "software",
-            "design",
-            "research",
-            "representation",
-            "information",
-            "engineering"
+            "cb9"
         ]
     },
     {
@@ -331,11 +364,16 @@
         "id": "16448",
         "schedule": [],
         "topics": [
-            "software",
-            "processes",
-            "process evaluation",
-            "models",
-            "computer science"
+            "capacity",
+            "results",
+            ";",
+            "ambiguity",
+            "architect",
+            "assessment",
+            "documents",
+            "group",
+            "specialized",
+            "transmit"
         ]
     },
     {
@@ -387,12 +425,16 @@
             }
         ],
         "topics": [
-            "distributed systems",
-            "design",
-            "algorithm",
+            "aspect",
+            "cluster",
+            "data",
+            "evaluatging",
+            "hadoop",
+            "latency",
+            "scheduling",
             "simulation",
-            "high performance",
-            "scheduling"
+            "synchronization",
+            "tasks"
         ]
     },
     {
@@ -458,10 +500,16 @@
             }
         ],
         "topics": [
-            "cryptographic",
-            "protocols",
-            "hardware design",
-            "cryptographic primitive"
+            "theoretical",
+            "teamwork",
+            "cryptanalysis",
+            "sessions",
+            "tarea",
+            "usage",
+            "hardware",
+            "standard",
+            "1.1",
+            "4.2"
         ]
     },
     {
@@ -511,11 +559,16 @@
             }
         ],
         "topics": [
-            "advance computing",
+            "different",
+            "distributed",
+            "md1",
             "programming",
-            "parallel programming",
-            "heterogeneous computing",
-            "programming models"
+            "students",
+            "subject",
+            "work",
+            "write",
+            "code",
+            "platforms"
         ]
     },
     {
@@ -529,7 +582,18 @@
         "semester": "2",
         "id": "16439",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "defender\u00e1",
+            "encontradas",
+            "estudiante",
+            "ingl\u00e9s",
+            "plan",
+            "consiste",
+            "diferentes",
+            "evaluaci\u00f3n",
+            "m\u00e1ster",
+            "obtenidos"
+        ]
     },
     {
         "name": "Unconventional Computation",
@@ -569,9 +633,16 @@
             }
         ],
         "topics": [
-            "unconventional computing",
-            "quantum computing",
-            "biocomputing"
+            "biological",
+            "problems",
+            "systems",
+            "--",
+            "algorithms",
+            "applied",
+            "approach",
+            "assignment",
+            "biocomputing",
+            "cases"
         ]
     },
     {
@@ -612,12 +683,16 @@
             }
         ],
         "topics": [
-            "automatic programming",
-            "machine learning",
-            "deep learning",
-            "neural networks",
-            "algorithm",
-            "reinforcement learning"
+            "class=",
+            "data",
+            "model-free",
+            "research",
+            "tarea",
+            "types",
+            "work",
+            "individual",
+            "articles",
+            "empirical"
         ]
     },
     {
@@ -667,11 +742,16 @@
             }
         ],
         "topics": [
-            "modeling",
-            "simulation",
+            "agents",
+            "complex",
+            "conversational",
+            "define",
             "optimization",
-            "artificial inteligent",
-            "optimization"
+            "simulation",
+            "tarea",
+            "world",
+            "process",
+            "applications"
         ]
     },
     {
@@ -686,10 +766,16 @@
         "id": "16449",
         "schedule": [],
         "topics": [
-            "software development",
-            "model driven",
-            "arquitecture",
-            "design"
+            "common",
+            "detailed",
+            "development",
+            "discussion",
+            "driven",
+            "essential",
+            "evolution",
+            "exercises",
+            "followed",
+            "fundamentals"
         ]
     },
     {
@@ -704,10 +790,16 @@
         "id": "16450",
         "schedule": [],
         "topics": [
-            "startup",
-            "talent management",
-            "managemenet",
-            "organization"
+            "companies",
+            "present",
+            "ambiguity",
+            "assignment",
+            "class=",
+            "clearly",
+            "fourth",
+            "lean",
+            "methodology",
+            "success"
         ]
     },
     {
@@ -757,11 +849,16 @@
             }
         ],
         "topics": [
-            "information technology",
-            "teamwork",
-            "management",
-            "interface",
-            "natural language processing"
+            "attitude",
+            "machine",
+            "offer",
+            "practice",
+            "purpose",
+            "skills",
+            "studies",
+            "team",
+            "used",
+            "wcag"
         ]
     },
     {
@@ -872,11 +969,16 @@
             }
         ],
         "topics": [
-            "analogical",
-            "digital",
-            "design",
-            "systems",
-            "electronic"
+            "5.4.1",
+            "activities",
+            "comparators",
+            "development",
+            "engineering",
+            "generation",
+            "incomplete",
+            "meets",
+            "opportunity",
+            "quantization"
         ]
     },
     {
@@ -933,11 +1035,16 @@
             }
         ],
         "topics": [
-            "electronic",
-            "systems",
-            "photonic",
-            "optical",
-            "microelectronic"
+            "basic",
+            "class",
+            "designs",
+            "frequency",
+            "general",
+            "incomplete",
+            "make",
+            "photonics",
+            "related",
+            "responsibilities"
         ]
     },
     {
@@ -1058,11 +1165,16 @@
             }
         ],
         "topics": [
-            "design",
-            "electronic",
-            "systems",
-            "simulation",
-            "signal processing"
+            "application",
+            "bachelor",
+            "concepts",
+            "field",
+            "fpgas",
+            "furthermore",
+            "impulse",
+            "judgments",
+            "maintain",
+            "matlab"
         ]
     },
     {
@@ -1095,10 +1207,16 @@
             }
         ],
         "topics": [
-            "electronic",
-            "disabled people",
-            "assistance",
-            "systems"
+            "clearly",
+            "formulate",
+            "mobility",
+            "systems",
+            "applicable",
+            "concept",
+            "context",
+            "handle",
+            "identification",
+            "knowledge"
         ]
     },
     {
@@ -1183,11 +1301,16 @@
             }
         ],
         "topics": [
-            "embedded systems",
+            "efficient",
+            "microcontrollers",
+            "time",
             "fpga",
-            "design",
-            "optimization",
-            "microcontrollers"
+            "know",
+            "main",
+            "platform",
+            "reconfigurable",
+            "theory",
+            "types"
         ]
     },
     {
@@ -1244,11 +1367,16 @@
             }
         ],
         "topics": [
+            "class=",
+            "expert",
+            "interferences",
+            "management",
+            "professional",
+            "support",
+            "consumption",
             "design",
-            "sensor",
-            "embedded systems",
-            "network",
-            "communication"
+            "device",
+            "field"
         ]
     },
     {
@@ -1342,10 +1470,16 @@
             }
         ],
         "topics": [
-            "electronic",
-            "systems",
-            "photonic",
-            "fiber optic "
+            "applying",
+            "components",
+            "designing",
+            "hardware",
+            "incomplete",
+            "performance",
+            "public",
+            "specific",
+            "students",
+            "switching"
         ]
     },
     {
@@ -1397,10 +1531,16 @@
             }
         ],
         "topics": [
-            "circuits",
-            "electronic",
-            "design",
-            "converter"
+            "class=",
+            "developed",
+            "devise",
+            "fundamental",
+            "identify",
+            "industrial",
+            "integration",
+            "losses",
+            "management",
+            "optimization"
         ]
     },
     {
@@ -1548,9 +1688,16 @@
             }
         ],
         "topics": [
-            "electronic systems",
+            "contact",
+            "cutting-edge",
+            "practical",
+            "problems",
             "research",
-            "innovation"
+            "lectures",
+            "potential",
+            "able",
+            "areas",
+            "centers"
         ]
     },
     {
@@ -1648,9 +1795,16 @@
             }
         ],
         "topics": [
-            "intership",
+            "alternative",
+            "business",
+            "class=",
+            "company",
+            "industry",
+            "problems",
+            "tutorials",
+            "electronic",
             "experience",
-            "electronic systems"
+            "highly"
         ]
     },
     {
@@ -1754,10 +1908,16 @@
             }
         ],
         "topics": [
-            "electronic systems",
-            "design",
-            "teamwork",
-            "meassure"
+            "general",
+            "making",
+            "multidisciplinary",
+            "reports",
+            "responsibilities",
+            "tool",
+            "adoption",
+            "case",
+            "continue",
+            "design"
         ]
     },
     {
@@ -1809,10 +1969,16 @@
             }
         ],
         "topics": [
-            "electronic systems",
-            "design",
-            "teamwork",
-            "meassure"
+            "fundamentals",
+            "level",
+            "method",
+            "proyect",
+            "reflections",
+            "subsystems",
+            "tests",
+            "adoption",
+            "capacities",
+            "contexts"
         ]
     },
     {
@@ -1856,11 +2022,16 @@
             }
         ],
         "topics": [
-            "renewable energy",
-            "converter",
-            " electronic systems",
-            "bioengineering",
-            "electric vehicules"
+            "continue",
+            "identify",
+            "motorbike",
+            "provide",
+            "schemes",
+            "work",
+            "competencies",
+            "context",
+            "ideas",
+            "original"
         ]
     },
     {
@@ -1920,10 +2091,16 @@
             }
         ],
         "topics": [
-            "sensor",
-            "signal",
-            "meassurement",
-            "biomedical"
+            "class=",
+            "influence",
+            "magnitudes",
+            "processing",
+            "caracteristics",
+            "enviroment",
+            "obtain",
+            "specifications",
+            "systems",
+            "high"
         ]
     },
     {
@@ -1989,11 +2166,16 @@
             }
         ],
         "topics": [
-            "power systems",
-            "electronic systems",
-            "design",
-            "circuit",
-            "development"
+            "complexity",
+            "fundamentals",
+            "large-signal",
+            "mobile",
+            "possible",
+            "specify",
+            "teacher",
+            "battery",
+            "contexts",
+            "converters"
         ]
     },
     {
@@ -2026,11 +2208,16 @@
             }
         ],
         "topics": [
-            "electromagnetic",
-            "electronic system",
-            "electromagnetic compatibility",
-            "microprocessors",
-            "design"
+            "art",
+            "cardcages",
+            "compatibility",
+            "complements",
+            "concepts",
+            "coupling",
+            "course",
+            "data",
+            "items",
+            "military"
         ]
     },
     {
@@ -2083,11 +2270,16 @@
             }
         ],
         "topics": [
-            "integrated circuits",
-            "nanoelectronics",
-            "microsystems",
-            "electronic systems",
-            "develpment"
+            "activities",
+            "applying",
+            "complexity",
+            "ethical",
+            "fields",
+            "integrating",
+            "introducing",
+            "materials",
+            "multidisciplinary",
+            "scientific"
         ]
     },
     {
@@ -2144,10 +2336,16 @@
             }
         ],
         "topics": [
-            "integrated circuit",
-            "photonic",
-            "integrated optics",
-            "photonic systems"
+            "aiming",
+            "available",
+            "guides",
+            "scientific",
+            "sensor",
+            "students",
+            "waveguides",
+            "detection",
+            "integrated",
+            "material"
         ]
     },
     {
@@ -2180,12 +2378,16 @@
             }
         ],
         "topics": [
-            "microsystems",
-            "nanoelectronics",
-            "sensor",
-            "quantum computing",
-            "molecular electronics",
-            "metatronics"
+            "basis",
+            "design",
+            "discussion",
+            "history",
+            "identification",
+            "people",
+            "skills",
+            "study",
+            "tarea",
+            "trends"
         ]
     },
     {
@@ -2199,7 +2401,18 @@
         "semester": "2",
         "id": "12166",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "adquiridas",
+            "alto",
+            "aplicaciones",
+            "archivo",
+            "asegurar",
+            "asignaturas",
+            "campo",
+            "capacidades",
+            "carlos",
+            "clara"
+        ]
     },
     {
         "name": "Computational Techniques in Thermal and Fluids Engineering",
@@ -2320,11 +2533,16 @@
             }
         ],
         "topics": [
-            "fluid mechanics",
             "calculus",
-            "heat transfer",
-            "fluid engineering",
-            "thermal engineering"
+            "facilitate",
+            "fluids",
+            "high-level",
+            "main",
+            "numerical",
+            "root",
+            "underlying",
+            "computational",
+            "continuous"
         ]
     },
     {
@@ -2391,10 +2609,16 @@
             }
         ],
         "topics": [
-            "fluid mechanics",
-            "hydrodynamic",
-            "claculus",
-            "mathematical models"
+            "layer",
+            "student",
+            "unidirectional",
+            "explained",
+            "flow",
+            "lecture",
+            "models",
+            "proposed",
+            "turbulence",
+            "dimensional"
         ]
     },
     {
@@ -2444,11 +2668,16 @@
             }
         ],
         "topics": [
-            "structural mechanics",
-            "elasticity",
-            "structural integrity",
-            "structural stability",
-            "mechanical engineering"
+            "considering",
+            "propagation",
+            "simple",
+            "solution",
+            "demanding",
+            "personal",
+            "view",
+            "mechanics",
+            "plates",
+            "underlying"
         ]
     },
     {
@@ -2526,11 +2755,16 @@
             }
         ],
         "topics": [
-            "solid mechanics",
-            "finite element method",
-            "math",
-            "elasticity",
-            "strength of materials"
+            "build",
+            "commercial",
+            "finite",
+            "generic",
+            "modeling",
+            "tests",
+            "formulate",
+            "materials",
+            "stresses",
+            "systems"
         ]
     },
     {
@@ -2581,10 +2815,16 @@
             }
         ],
         "topics": [
-            "mechanical engineering",
-            "fotoelasticity",
-            "testing",
-            "simulation"
+            "mechanical",
+            "seen",
+            "include",
+            "posibilities",
+            "real",
+            "different",
+            "gauges",
+            "methods",
+            "simulation",
+            "activities"
         ]
     },
     {
@@ -2640,10 +2880,16 @@
             }
         ],
         "topics": [
-            "computer manufacturing",
-            "manufacturing processes",
-            "mechanical engineering",
-            "design"
+            "control",
+            "proposed",
+            "student",
+            "know",
+            "reinforce",
+            "cad-cam-cae",
+            "conditions",
+            "materials",
+            "modeling",
+            "practical"
         ]
     },
     {
@@ -2684,10 +2930,16 @@
             }
         ],
         "topics": [
-            "manufacturing process",
-            "measuring procedures",
-            "physical magnitudes",
-            "calculus"
+            "calculus",
+            "considered",
+            "design",
+            "ects",
+            "follow",
+            "instrument",
+            "metrology",
+            "notes",
+            "presented",
+            "selection"
         ]
     },
     {
@@ -2751,10 +3003,16 @@
             }
         ],
         "topics": [
-            "renewable energy",
-            "power plant",
-            "thermodynamics",
-            "energy"
+            "capability",
+            "class",
+            "lessons",
+            "station",
+            "solving",
+            "learning",
+            "power",
+            "occurring",
+            "student",
+            "0.75"
         ]
     },
     {
@@ -2811,10 +3069,16 @@
             }
         ],
         "topics": [
-            "composite structure",
-            "composite laminate",
-            "Laminate design",
-            " laminate beams"
+            "analyze",
+            "beams",
+            "chapter",
+            "composite",
+            "compression",
+            "mechanisms",
+            "skills",
+            "student",
+            "classical",
+            "elasticity"
         ]
     },
     {
@@ -2873,11 +3137,16 @@
             }
         ],
         "topics": [
-            "data analysis",
-            "mechanical sensors",
-            "mechanical engineering",
-            "masurements",
-            "signal"
+            ")",
+            "analysis",
+            "c10",
+            "c2",
+            "conferences",
+            "diagnosis",
+            "domain",
+            "filters",
+            "frequency",
+            "fundamentals"
         ]
     },
     {
@@ -2953,11 +3222,16 @@
             }
         ],
         "topics": [
-            "mechanical fluid",
-            "signal analysis",
-            "laser",
-            "experimental technique",
-            "technique fluid"
+            "him/herself",
+            "velocimetry",
+            "fluid",
+            "report",
+            "shadowgraphy",
+            "+",
+            "analysis",
+            "attitude",
+            "based",
+            "characterize"
         ]
     },
     {
@@ -3010,11 +3284,16 @@
             }
         ],
         "topics": [
-            "thermal engineering",
-            "thermal process",
-            "data acquisition",
-            "data",
-            "measurement"
+            "issues",
+            "process",
+            "students",
+            "understand",
+            "view",
+            "design",
+            "industrial",
+            "point",
+            "signals",
+            "time"
         ]
     },
     {
@@ -3063,10 +3342,16 @@
             }
         ],
         "topics": [
-            "optimization techniques",
-            "mechanical engineering",
-            "optimization",
-            "machine learning"
+            "algorithms",
+            "competences",
+            "engineering",
+            "exam",
+            "local",
+            "methods",
+            "neural",
+            "parametric",
+            "predicting",
+            "problems"
         ]
     },
     {
@@ -3115,10 +3400,16 @@
             }
         ],
         "topics": [
-            "industrial construction",
+            "codes",
             "design",
-            "design structure",
-            "structural elements"
+            "oral",
+            "presentations",
+            "small",
+            "information",
+            "strength",
+            "tutorships",
+            "building",
+            "conditions"
         ]
     },
     {
@@ -3203,7 +3494,18 @@
                 "room": "INF 7.0.J05 DUAL"
             }
         ],
-        "topics": []
+        "topics": [
+            "af4",
+            "decision",
+            "knowledge",
+            "level",
+            "multidisciplinary",
+            "parametric",
+            "supervised",
+            "basis",
+            "contexts",
+            "having"
+        ]
     },
     {
         "name": "Machine Learning",
@@ -3324,7 +3626,18 @@
                 "room": "4.0.D01"
             }
         ],
-        "topics": []
+        "topics": [
+            "af6",
+            "cb7",
+            "design",
+            "engineering",
+            "individual",
+            "level",
+            "machine",
+            "methods",
+            "opportunity",
+            "partial"
+        ]
     },
     {
         "name": "Statistical Signal Processing",
@@ -3432,7 +3745,18 @@
                 "room": "INF 4.S.D.03"
             }
         ],
-        "topics": []
+        "topics": [
+            "biomedical",
+            "continuous",
+            "laboratory",
+            "probability",
+            "procedures",
+            "related",
+            "signals",
+            "adaptive",
+            "enabling",
+            "individual"
+        ]
     },
     {
         "name": "Deep Learning",
@@ -3506,7 +3830,18 @@
                 "room": "LAB 4.0.B01A (T\u00aa Se\u00f1al)"
             }
         ],
-        "topics": []
+        "topics": [
+            "af4",
+            "deep",
+            "ideas",
+            "making",
+            "numerical",
+            "partial",
+            "specific",
+            "ultimate",
+            "complexity",
+            "incomplete"
+        ]
     },
     {
         "name": "Biomedical Image Processing",
@@ -3627,7 +3962,18 @@
                 "room": "LAB 4.0.B01A (T\u00aa Se\u00f1al)"
             }
         ],
-        "topics": []
+        "topics": [
+            "based",
+            "contexts",
+            "frontiers",
+            "images",
+            "incomplete",
+            "number",
+            "referenced",
+            "specialised",
+            "work",
+            "advanced"
+        ]
     },
     {
         "name": "Data intensive computing",
@@ -3702,7 +4048,18 @@
                 "room": "2.0.C05"
             }
         ],
-        "topics": []
+        "topics": [
+            "data",
+            "his/her",
+            "learning",
+            "methods",
+            "opportunity",
+            "settings",
+            "technologies",
+            "application",
+            "competences",
+            "implement"
+        ]
     },
     {
         "name": "Medical image reconstruction",
@@ -3811,7 +4168,18 @@
                 "room": "INF 7.0.J03 DUAL + TEL"
             }
         ],
-        "topics": []
+        "topics": [
+            "audiences",
+            "continue",
+            "responsibilities",
+            "cb9",
+            "incomplete",
+            "matlab",
+            "reconstruction",
+            "sessions",
+            "society",
+            "cg3"
+        ]
     },
     {
         "name": "Medical image generation",
@@ -3824,7 +4192,18 @@
         "semester": "2",
         "id": "18061",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "academic",
+            "continue",
+            "involved",
+            "nuclear",
+            "presencial",
+            "reflections",
+            "resonance",
+            "social",
+            "students",
+            "audiences"
+        ]
     },
     {
         "name": "Surgical navigation and imaging",
@@ -3863,7 +4242,18 @@
                 "room": "2.0.C05"
             }
         ],
-        "topics": []
+        "topics": [
+            "having",
+            "modules",
+            "processing",
+            "skills",
+            "tarea",
+            "understanding",
+            ";",
+            "bases",
+            "device",
+            "images"
+        ]
     },
     {
         "name": "Neuroimaging",
@@ -3911,7 +4301,18 @@
                 "room": "INF 4.S.D.03"
             }
         ],
-        "topics": []
+        "topics": [
+            "communicate",
+            "general",
+            "making",
+            "problem-solving",
+            "research",
+            "skills",
+            "software",
+            "student",
+            "systems",
+            "contexts"
+        ]
     },
     {
         "name": "Computer Vision",
@@ -3990,7 +4391,18 @@
                 "room": "LAB 4.0.B01A (T\u00aa Se\u00f1al)"
             }
         ],
-        "topics": []
+        "topics": [
+            "cb7",
+            "face",
+            "languages",
+            "number",
+            "presence",
+            "registration",
+            "responsibilities",
+            "shading",
+            "specialised",
+            "color"
+        ]
     },
     {
         "name": "Clinical data",
@@ -4003,7 +4415,18 @@
         "semester": "2",
         "id": "18065",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "able",
+            "bioimages",
+            "departmental",
+            "individual",
+            "merits",
+            "opportunity",
+            "presencial",
+            "problems",
+            "reasons",
+            "representation"
+        ]
     },
     {
         "name": "Information Theory",
@@ -4016,7 +4439,18 @@
         "semester": "2",
         "id": "18066",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "classes",
+            "complexity",
+            "handling",
+            "knowledge",
+            "learned",
+            "merits",
+            "publication",
+            "students",
+            "types",
+            "analysis"
+        ]
     },
     {
         "name": "Speech & Natural Language Processing",
@@ -4058,7 +4492,18 @@
                 "room": "LAB 4.0.B01A (T\u00aa Se\u00f1al)"
             }
         ],
-        "topics": []
+        "topics": [
+            "advanced",
+            "algorithms",
+            "automatic",
+            "cg5",
+            "debate",
+            "deep",
+            "ethical",
+            "examples",
+            "extraction",
+            "final"
+        ]
     },
     {
         "name": "Optimization",
@@ -4176,7 +4621,18 @@
                 "room": "INF 4.S.D.04"
             }
         ],
-        "topics": []
+        "topics": [
+            "derivatives",
+            "majorization-minimization",
+            "projects",
+            "students",
+            "vector",
+            "contents",
+            "lagrange",
+            "optimization",
+            "processing",
+            "signal"
+        ]
     },
     {
         "name": "Personalized medicine",
@@ -4226,7 +4682,18 @@
                 "room": "2.0.C05"
             }
         ],
-        "topics": []
+        "topics": [
+            "decompose",
+            "documentation",
+            "efficient",
+            "evaluation",
+            "exercises",
+            "multidisciplinary",
+            "participation",
+            "perspectives",
+            "session",
+            "specific"
+        ]
     },
     {
         "name": "Communication Technologies in Healthcare",
@@ -4239,7 +4706,18 @@
         "semester": "2",
         "id": "18070",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "cb10",
+            "cb9",
+            "competences",
+            "fields",
+            "life",
+            "making",
+            "presents",
+            "problem-solving",
+            "referenced",
+            "responsibilities"
+        ]
     },
     {
         "name": "Master Thesis",
@@ -4252,7 +4730,18 @@
         "semester": "2",
         "id": "18072",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "advanced",
+            "contexts",
+            "hypothesis",
+            "mechanisms",
+            "original",
+            "problem-solving",
+            "publication",
+            "responsibilities",
+            "settings",
+            "af6"
+        ]
     },
     {
         "name": "Advanced metallic materials",
@@ -4328,7 +4817,18 @@
                 "room": "2.3.A05"
             }
         ],
-        "topics": []
+        "topics": [
+            "appropriate",
+            "behavior",
+            "clear",
+            "complexity",
+            "ensures",
+            "functional",
+            "intermetallics",
+            "metallurgical",
+            "optimizing",
+            "properties"
+        ]
     },
     {
         "name": "Advanced polymeric materials",
@@ -4404,7 +4904,18 @@
                 "room": "2.3.A04"
             }
         ],
-        "topics": []
+        "topics": [
+            "introduction",
+            "polymer",
+            "simulation",
+            "tarea",
+            "materials",
+            "multicomponent",
+            "properties",
+            "state",
+            "weights",
+            "viscoelasticity"
+        ]
     },
     {
         "name": "Advanced ceramic materials",
@@ -4459,7 +4970,10 @@
                 "room": "2.3.D02"
             }
         ],
-        "topics": []
+        "topics": [
+            "[",
+            "]"
+        ]
     },
     {
         "name": "Advanced composite materials",
@@ -4550,7 +5064,18 @@
                 "room": "INF 2.2.C.03 DUAL"
             }
         ],
-        "topics": []
+        "topics": [
+            "12.3",
+            "9.1",
+            "available",
+            "carbides",
+            "cb10",
+            "contribute",
+            "elastic",
+            "foundation",
+            "fracture",
+            "liquid"
+        ]
     },
     {
         "name": "Technology applied to nanomaterials",
@@ -4596,7 +5121,18 @@
                 "room": "2.3.A02"
             }
         ],
-        "topics": []
+        "topics": [
+            "ce3",
+            "challenges",
+            "conclusions",
+            "defend",
+            "discussed",
+            "examples",
+            "functional",
+            "groups",
+            "intended",
+            "laboratory"
+        ]
     },
     {
         "name": "Coating technology and surface treatments (M2)",
@@ -4660,7 +5196,18 @@
                 "room": "INF 2.2.C.03 DUAL"
             }
         ],
-        "topics": []
+        "topics": [
+            "autocatalytic",
+            "ce4",
+            "coatings",
+            "conclusions",
+            "different",
+            "effect",
+            "issues",
+            "metals",
+            "polymers",
+            "scientific"
+        ]
     },
     {
         "name": "Powder technology (M2)",
@@ -4707,7 +5254,18 @@
                 "room": "2.3.C02"
             }
         ],
-        "topics": []
+        "topics": [
+            "tarea",
+            "mark",
+            "provide",
+            "advances",
+            "alloys",
+            "characterization",
+            "charaterization",
+            "definition",
+            "engineering",
+            "follow"
+        ]
     },
     {
         "name": "Thermal, mechanical and thermomechanical characterization techniques (M3)",
@@ -4774,7 +5332,18 @@
                 "room": "2.3.D02"
             }
         ],
-        "topics": []
+        "topics": [
+            "cb7",
+            "cg1",
+            "characteristic",
+            "chemistry",
+            "clear",
+            "complexity",
+            "group",
+            "mecano-thermal",
+            "questionnaires",
+            "solve"
+        ]
     },
     {
         "name": "Microscopy techniques",
@@ -4852,7 +5421,18 @@
                 "room": "4.1.E04"
             }
         ],
-        "topics": []
+        "topics": [
+            "basis",
+            "brief",
+            "cb10",
+            "ce10",
+            "characteristic",
+            "ethical",
+            "limitations",
+            "papers",
+            "reasons",
+            "specialized"
+        ]
     },
     {
         "name": "Techniques for surface analysis and characterization of the structure",
@@ -4922,7 +5502,18 @@
                 "room": "INF 4.S.D.01"
             }
         ],
-        "topics": []
+        "topics": [
+            "critical",
+            "equipped",
+            "interpretation",
+            "meaning",
+            "particular",
+            "project",
+            "retrieve",
+            "sessions",
+            "strategies",
+            "technology"
+        ]
     },
     {
         "name": "Materials performance under extreme conditions (M3)",
@@ -4986,7 +5577,18 @@
                 "room": "LAB 1.0.A03 (Quim-Mat), LAB 1.0.A04 (Materiales)"
             }
         ],
-        "topics": []
+        "topics": [
+            "apply",
+            "assessments",
+            "chemical",
+            "concepts",
+            "doing",
+            "extreme",
+            "hardly",
+            "known",
+            "melted",
+            "optimization"
+        ]
     },
     {
         "name": "Corrosion tests and electrochemical techniques for materials characterization (M3)",
@@ -5032,7 +5634,18 @@
                 "room": "1.0.F02"
             }
         ],
-        "topics": []
+        "topics": [
+            "af2",
+            "apply",
+            "conclusions",
+            "develop",
+            "face",
+            "health",
+            "obtained",
+            "public",
+            "social",
+            "uc3m"
+        ]
     },
     {
         "name": "Material simulation techniques (M3)",
@@ -5133,7 +5746,18 @@
                 "room": "2.0.C04"
             }
         ],
-        "topics": []
+        "topics": [
+            "cb10",
+            "making",
+            "scale",
+            "7.1",
+            "communicate",
+            "information",
+            "learning",
+            "micromechanics",
+            "modification",
+            "numerical"
+        ]
     },
     {
         "name": "Materials for biomedical applications (M4)",
@@ -5164,7 +5788,18 @@
                 "room": "4.1.E04"
             }
         ],
-        "topics": []
+        "topics": [
+            "challenges",
+            "composition",
+            "engineering",
+            "modification",
+            "subject",
+            "theoretical",
+            "ce4",
+            "personal",
+            "reduced",
+            "transfer"
+        ]
     },
     {
         "name": "Materials for transport (M4)",
@@ -5210,7 +5845,18 @@
                 "room": "4.1.E04"
             }
         ],
-        "topics": []
+        "topics": [
+            "af3",
+            "alloys",
+            "attendance",
+            "aware",
+            "ceramic",
+            "current",
+            "develops",
+            "innovation",
+            "md6",
+            "problem"
+        ]
     },
     {
         "name": "Functional materials for energy (M4)",
@@ -5255,7 +5901,18 @@
                 "room": "1.0.H03"
             }
         ],
-        "topics": []
+        "topics": [
+            "characterization",
+            "concepts",
+            "critical",
+            "formulation",
+            "guidance",
+            "knowledge",
+            "magnetic",
+            "means",
+            "potential",
+            "resolution"
+        ]
     },
     {
         "name": "Advanced Numerical Methods",
@@ -5351,11 +6008,16 @@
             }
         ],
         "topics": [
-            "interpolation",
-            "error analysis",
-            "Romberg\u00e2\u20ac\u2122s integration",
-            "Newton\u00e2\u20ac\u2122s method",
-            "Euler\u00e2\u20ac\u2122s method"
+            "analysis",
+            "courses",
+            "easier",
+            "level",
+            "practical",
+            "quadrature",
+            "students",
+            "romberg",
+            "adapt",
+            "approximation"
         ]
     },
     {
@@ -5423,11 +6085,16 @@
             }
         ],
         "topics": [
-            "perturbation theory",
-            "pseudoinverses",
-            "canonical forms",
-            "factorization",
-            "matrices"
+            "cases",
+            "eigenvectors",
+            "matrix",
+            "particular",
+            "solutions",
+            "vectors",
+            "7.3-",
+            "canonical",
+            "condition",
+            "diagonalization"
         ]
     },
     {
@@ -5467,12 +6134,16 @@
             }
         ],
         "topics": [
-            "measure theory",
-            "Lp spaces",
-            "Hp spaces",
-            "Potential theory",
-            "Banach spaces",
-            "complex analysis"
+            "include",
+            "make",
+            "personal",
+            "supervised",
+            "work",
+            "easier",
+            "infinite",
+            "mappings",
+            "picard",
+            "tarea"
         ]
     },
     {
@@ -5522,11 +6193,16 @@
             }
         ],
         "topics": [
-            "random variables",
-            "Markov",
-            "estimators",
-            "test of hypothesis",
-            "nonparametric inference"
+            "asymptotic",
+            "complete",
+            "development",
+            "formulate",
+            "intervals",
+            "material",
+            "method",
+            "neyman-pearson",
+            "normal",
+            "obtaining"
         ]
     },
     {
@@ -5576,11 +6252,16 @@
             }
         ],
         "topics": [
-            "floating point",
-            "factorization",
-            "eigenvalues",
-            "iterative methods",
-            "QR algorithm"
+            "books",
+            "developed",
+            "foundations",
+            "introduction",
+            "methods",
+            "perform",
+            "reflections",
+            "student",
+            "text",
+            "4.2.2"
         ]
     },
     {
@@ -5620,11 +6301,16 @@
             }
         ],
         "topics": [
-            "multivariate regression",
-            "least squares",
-            "linear models",
-            "GLM",
-            "smoothing methods"
+            "degrees",
+            "fisher",
+            "glms",
+            "iterative",
+            "link",
+            "matrix",
+            "mixed",
+            "ordinal",
+            "regresseion",
+            "statistical"
         ]
     },
     {
@@ -5673,11 +6359,16 @@
             }
         ],
         "topics": [
-            "Hilbert spaces",
-            "Fourier",
-            "Shannon",
-            "orthonormal bases",
-            "Riesz"
+            "easier",
+            "problem",
+            "sampling",
+            "subsequent",
+            "basic",
+            "class=",
+            "control",
+            "methodology",
+            "order",
+            "properties"
         ]
     },
     {
@@ -5717,11 +6408,16 @@
             }
         ],
         "topics": [
-            "differential equations",
-            "parabolic equations",
-            "hyperbolic equations",
-            "Elliptic equations",
-            "Laplace"
+            "knowledge",
+            "level",
+            "means",
+            "nonlineasr",
+            "parabolic",
+            "practical",
+            "properties",
+            "rooms",
+            "sense",
+            "solutions"
         ]
     },
     {
@@ -5763,11 +6459,16 @@
             }
         ],
         "topics": [
-            "random variables",
-            "Markov",
-            "stochastic processes",
-            "Brownian motion",
-            "Martingales"
+            "martingale",
+            "performs",
+            "probabilities",
+            "problems",
+            "readings",
+            "review",
+            "solving",
+            "stochastic",
+            "structure",
+            "target"
         ]
     },
     {
@@ -5807,11 +6508,16 @@
             }
         ],
         "topics": [
-            "linear optimization",
-            "combinatorial optimization",
-            "stochastic optimization",
-            "applications",
-            "branch and bound"
+            "economic",
+            "sets",
+            "used",
+            "complemented",
+            "courses",
+            "deterministic",
+            "flow",
+            "solutions",
+            "students",
+            "1.1"
         ]
     },
     {
@@ -5852,11 +6558,16 @@
             }
         ],
         "topics": [
-            "power series",
-            "graphs",
-            "Markov",
-            "harmonics functions",
-            "Green's function"
+            "class=",
+            "discrete",
+            "docent",
+            "graph",
+            "green",
+            "learning",
+            "make",
+            "principles",
+            "professor",
+            "students"
         ]
     },
     {
@@ -5915,11 +6626,16 @@
             }
         ],
         "topics": [
-            "thermodynamics",
-            "nonlinear dynamics",
-            "bifurcations",
-            "chaotic dynamics",
-            "percolation"
+            "autonomous",
+            "degrees",
+            "employ",
+            "inferred",
+            "percolation",
+            "single",
+            "vision",
+            "global",
+            "large",
+            "model"
         ]
     },
     {
@@ -5984,11 +6700,16 @@
             }
         ],
         "topics": [
-            "random variables",
-            "Stochastic processes",
-            "Black-Scholes model",
-            "Langevin simulation",
-            "mathematical finance"
+            "9.1",
+            "algorithms",
+            "class=",
+            "description",
+            "expected",
+            "general",
+            "integration",
+            "limit",
+            "overdamped",
+            "poisson"
         ]
     },
     {
@@ -6027,11 +6748,16 @@
             }
         ],
         "topics": [
-            "Fourier",
-            "hyperbolic equations",
-            "Galerkin",
-            "interpolation",
-            "G-NI method"
+            "differential",
+            "exercises",
+            "having",
+            "order",
+            "spectral",
+            "study",
+            "control",
+            "errors",
+            "main",
+            "master"
         ]
     },
     {
@@ -6089,12 +6815,16 @@
             }
         ],
         "topics": [
-            "random variables",
-            "Borel-Cantelli",
-            "large numbers",
-            "Delta Method",
-            "U-statistics",
-            "Plugging estimation"
+            "classroom",
+            "issues",
+            "orientation",
+            "results",
+            "simple",
+            "student",
+            "theorem",
+            "theory",
+            "variables",
+            "weak"
         ]
     },
     {
@@ -6151,11 +6881,16 @@
             }
         ],
         "topics": [
-            "multivariate",
-            "kernel",
-            "Bayes",
-            "canonical correlation",
-            "gaussian distribution"
+            "6.3",
+            "capacity",
+            "classes",
+            "computer",
+            "concepts",
+            "different",
+            "discriminant",
+            "formulation",
+            "gaussians",
+            "hypotesis"
         ]
     },
     {
@@ -6204,11 +6939,16 @@
             }
         ],
         "topics": [
-            "unconstrained optimization",
-            "constrained optimization",
-            "stochastic optimization",
-            "robust optimization",
-            "optimality"
+            "algorithms",
+            "conditions",
+            "provide",
+            "robust",
+            "subject",
+            "times",
+            "application",
+            "corresponding",
+            "examples",
+            "tarea"
         ]
     },
     {
@@ -6255,11 +6995,16 @@
             }
         ],
         "topics": [
-            "Bayes",
-            "MCMC",
-            "Monte Carlo",
-            "time series",
-            "regression"
+            "theorem",
+            "model",
+            "normal",
+            "tossing",
+            "coin",
+            "point",
+            "sessions",
+            "algorithms",
+            "approaches",
+            "aspects"
         ]
     },
     {
@@ -6293,11 +7038,16 @@
             }
         ],
         "topics": [
-            "FDA",
-            "support vector Machines",
-            "SVM",
-            "kernel",
-            "regression"
+            "mathematics",
+            "multivariate",
+            "practical",
+            "problem",
+            "tarea",
+            "tecniques",
+            "advanced",
+            "apply",
+            "class=",
+            "general"
         ]
     },
     {
@@ -6337,11 +7087,16 @@
             }
         ],
         "topics": [
-            "Riccati equations",
-            "Pontryagin's maximum principle",
-            "control mechanical systems",
-            "affine-linear control",
-            "linear control systems"
+            "facilitate",
+            "interst",
+            "optimal",
+            "pontryagin",
+            "related",
+            "room",
+            "systems",
+            "variables",
+            "quadratic",
+            "affine-linear"
         ]
     },
     {
@@ -6383,11 +7138,16 @@
             }
         ],
         "topics": [
-            "discrete models",
-            "diffusion systems",
-            "chemical kinetics",
-            "biological oscillators",
-            "Belousov-Zhabotinski"
+            "bifurcations",
+            "control",
+            "excitable",
+            "interested",
+            "phenomena",
+            "range",
+            "relaxation",
+            "rooms",
+            "solutions",
+            "spent"
         ]
     },
     {
@@ -6428,11 +7188,16 @@
             }
         ],
         "topics": [
-            "orthogonal polynomials",
-            "Pad\u00c3\u00a9 approximation",
+            "operators",
+            "prediction",
+            "real",
+            "sobolev",
+            "approximation",
+            "liouville",
+            "metrics",
             "orthogonality",
-            "Liouville",
-            "rational approximation"
+            "reference",
+            "theorems"
         ]
     },
     {
@@ -6447,11 +7212,16 @@
         "id": "15466",
         "schedule": [],
         "topics": [
-            "ARIMA",
-            "autoregressive models",
-            "spectral analysis",
-            "Holt-Winters",
-            "smoothing methods"
+            "class=",
+            "methods",
+            "applied",
+            "autoregressive",
+            "computer",
+            "descriptive",
+            "examples",
+            "multivariate",
+            "smoothing",
+            "1.3"
         ]
     },
     {
@@ -6466,11 +7236,16 @@
         "id": "15467",
         "schedule": [],
         "topics": [
-            "discrete dependent variables",
-            "OLS estimators",
-            "panel data",
-            "limited dependent variable",
-            "regression"
+            "censored",
+            "concerning",
+            "effect",
+            "fields",
+            "multinomial",
+            "random",
+            "stochastic",
+            "truncated",
+            "analysis",
+            "regressors"
         ]
     },
     {
@@ -6546,10 +7321,16 @@
             }
         ],
         "topics": [
-            "advanced_communications",
-            "radar",
-            "navigation",
-            "radar_systems"
+            "allow",
+            "application",
+            "articles",
+            "audiovisual",
+            "contexts",
+            "exposition",
+            "later",
+            "ones",
+            "proposed",
+            "related"
         ]
     },
     {
@@ -6626,10 +7407,16 @@
             }
         ],
         "topics": [
-            "advanced_communications",
-            "signal_processing",
-            "statistical_signal_processing",
-            "model_based_signal_processing"
+            "carry",
+            "completed",
+            "field",
+            "mmse",
+            "related",
+            "situations",
+            "tests",
+            "classification",
+            "development",
+            "efficiently"
         ]
     },
     {
@@ -6732,10 +7519,16 @@
             }
         ],
         "topics": [
-            "advanced_communications",
-            "terrestrial_communications",
-            "space_communications",
-            "communication_architecture"
+            "class=",
+            "digital",
+            "final",
+            "formats",
+            "high",
+            "individual",
+            "introduction",
+            "judgments",
+            "laboratory",
+            "link"
         ]
     },
     {
@@ -6837,10 +7630,16 @@
             }
         ],
         "topics": [
-            "advanced_communications",
-            "broadband_communications",
-            "ofdm",
-            "mimo"
+            "associated",
+            "fbmc",
+            "guarantee",
+            "massive",
+            "modulation",
+            "particular",
+            "specific",
+            "systems",
+            "variants",
+            "increasing"
         ]
     },
     {
@@ -6915,11 +7714,16 @@
             }
         ],
         "topics": [
-            "advanced_communications",
-            "high_frequency",
-            "millimiter_wave",
-            "active_systems",
-            "passive_systems"
+            "antenna",
+            "broadband",
+            "ce3",
+            "class",
+            "discussion",
+            "field",
+            "getting",
+            "individual",
+            "modulations",
+            "passive"
         ]
     },
     {
@@ -6982,9 +7786,16 @@
             }
         ],
         "topics": [
-            "advanced_communications",
-            "antennas",
-            "antenna_technology"
+            "basis",
+            "characteristics",
+            "classify",
+            "electromagnetic",
+            "finds",
+            "homogeneous",
+            "media",
+            "paid",
+            "pattern",
+            "problems"
         ]
     },
     {
@@ -6999,9 +7810,16 @@
         "id": "18539",
         "schedule": [],
         "topics": [
-            "advanced_communications",
-            "information_theory",
-            "digital_communication"
+            "commonly",
+            "english",
+            "kraft",
+            "types",
+            "variables",
+            "information",
+            "kullback-leibler",
+            "profound",
+            "source-channel",
+            "concepts"
         ]
     },
     {
@@ -7067,10 +7885,16 @@
             }
         ],
         "topics": [
-            "advanced_communications",
-            "computational_electromagnetism",
-            "mathematical_modelling",
-            "hpc"
+            "electromagnetism",
+            "mathematical",
+            "methodologies",
+            "moment",
+            "asymptotic",
+            "computational",
+            "elements",
+            "i.e.",
+            "numerical",
+            "proper"
         ]
     },
     {
@@ -7085,10 +7909,8 @@
         "id": "18621",
         "schedule": [],
         "topics": [
-            "advanced_communications",
-            "computational_electromagnetism",
-            "mathematical_modelling",
-            "hpc"
+            "[",
+            "]"
         ]
     },
     {
@@ -7103,9 +7925,16 @@
         "id": "18573",
         "schedule": [],
         "topics": [
-            "advanced_communications",
-            "channel_coding",
-            "mimo_systems"
+            "clearly",
+            "course",
+            "expose",
+            "focus",
+            "grading",
+            "hand",
+            "learning",
+            "limitations",
+            "methodology",
+            "models"
         ]
     },
     {
@@ -7170,10 +7999,16 @@
             }
         ],
         "topics": [
-            "advanced_communications",
-            "simulation",
-            "optimization",
-            "communication_systems"
+            "algorithms",
+            "estimation",
+            "main",
+            "problems",
+            "capacity",
+            "cellular",
+            "classification",
+            "convex",
+            "examples",
+            "methods"
         ]
     },
     {
@@ -7188,8 +8023,8 @@
         "id": "18622",
         "schedule": [],
         "topics": [
-            "advanced_communications",
-            "scientific_methodology"
+            "[",
+            "]"
         ]
     },
     {
@@ -7241,11 +8076,16 @@
             }
         ],
         "topics": [
-            "Fuzzy relations",
-            "Fuzzy modeling systems",
-            "Fundamentals of neural networks",
-            "Control systems",
-            "Non-derivative methods"
+            "approximation",
+            "covered",
+            "generalized",
+            "layers",
+            "main",
+            "mandani",
+            "model",
+            "multipoint",
+            "networks",
+            "neuron"
         ]
     },
     {
@@ -7283,12 +8123,16 @@
             }
         ],
         "topics": [
-            "Autonomy",
-            "Intelligence",
-            "Control architectures of robots",
-            "Robot learning",
-            "Robot perception",
-            "Decision making"
+            "intelligence",
+            "introduction",
+            "lectures",
+            "promoted",
+            "robotics",
+            "intelligent",
+            "knowledge",
+            "roboethics",
+            "autonomous",
+            "class="
         ]
     },
     {
@@ -7365,11 +8209,16 @@
             }
         ],
         "topics": [
-            "Bottom-up design",
-            "Image preprocessing",
-            "Top-down design",
-            "Optimization",
-            "Stereo Vision"
+            "tutorials",
+            "work",
+            "acquisition",
+            "applications",
+            "bottom-up",
+            "calibration",
+            "projection",
+            "rectification",
+            "rigid",
+            "skillful"
         ]
     },
     {
@@ -7431,11 +8280,16 @@
             }
         ],
         "topics": [
-            "Models of robots and environment",
-            "Classic aproaches of path-planning",
-            "Roadmaps",
-            "Celd Decomposition",
-            "Probabilistical methods"
+            "associated",
+            "class=",
+            "student",
+            "ones",
+            "problems",
+            "robotics",
+            "specification",
+            "lecture",
+            "movement",
+            "path-planning"
         ]
     },
     {
@@ -7506,12 +8360,16 @@
             }
         ],
         "topics": [
-            "ROS",
-            "Communications methods",
-            "Programming nodes",
-            "Services",
-            "Services",
-            "Timers"
+            "services",
+            "basic",
+            "distributed",
+            "exercises",
+            "help",
+            "tarea",
+            "topics",
+            "ubuntu",
+            "class=",
+            "communications"
         ]
     },
     {
@@ -7578,11 +8436,16 @@
             }
         ],
         "topics": [
-            "ABB manipultators",
-            "IRC5 controller",
-            "Robot Programming",
-            "Kinematic Control",
-            "manufacturing system"
+            "7.1",
+            "actuators",
+            "corke",
+            "direct",
+            "experience",
+            "historical",
+            "manipultators",
+            "preferred",
+            "program",
+            "review"
         ]
     },
     {
@@ -7636,12 +8499,16 @@
             }
         ],
         "topics": [
-            "OmEdit and DrModelica",
-            "Connectors",
-            "Hybrid systems",
-            "Discrete time systems",
-            " modeling and simulation",
-            "Hybrid systems"
+            "5.1",
+            "hybrid",
+            "modeling",
+            "environments",
+            "examples",
+            "1.2",
+            "2.2",
+            "3.3",
+            "4.-",
+            "algorithms"
         ]
     },
     {
@@ -7713,12 +8580,16 @@
             }
         ],
         "topics": [
-            "Machine Learning",
-            " Techniques for data classification",
-            "Regression techniques",
-            "Clustering techniques",
-            "Deep Learning",
-            "Medicine"
+            "classification",
+            "course",
+            "decision",
+            "detecting",
+            "interaction",
+            "trends",
+            "grouping",
+            "prediction",
+            "?",
+            "areas"
         ]
     },
     {
@@ -7752,10 +8623,16 @@
             }
         ],
         "topics": [
-            "Typology of applications",
-            "robots in construction",
-            "Construction of structures",
-            "ICTs in construction"
+            "class=",
+            "cleaning",
+            "earthworks",
+            "robots",
+            "structures",
+            "works",
+            "finish",
+            "tarea",
+            "typology",
+            "maintenance"
         ]
     },
     {
@@ -7788,11 +8665,16 @@
             }
         ],
         "topics": [
-            "Intelligent Transport Systems",
-            "Autonomous Systems",
-            "Driver Assistance Systems",
-            "Traffic Signal Recognition System",
-            " Control Monitoring Systems"
+            "increasing",
+            "systems",
+            "visit",
+            "cars",
+            "cruise",
+            "distance",
+            "traffic",
+            "applied",
+            "1.1",
+            "3.4"
         ]
     },
     {
@@ -7825,10 +8707,16 @@
             }
         ],
         "topics": [
-            "methods of robotics",
-            "Kinematics",
-            "Generation of gaits of humanoids",
-            " Control Architecture"
+            "dynamics",
+            "introduced",
+            "single",
+            "tarea",
+            "definitions",
+            "ergonomics",
+            "exponentials",
+            "introduction",
+            "modeling",
+            "numerous"
         ]
     },
     {
@@ -7861,11 +8749,16 @@
             }
         ],
         "topics": [
-            "Architecture",
-            "Conceptual design",
-            "Data Links",
-            "Payloads",
-            "SWOT Analysis"
+            "missions",
+            "payloads",
+            "segment",
+            ")",
+            "air",
+            "architecture",
+            "based",
+            "data",
+            "segments",
+            "week"
         ]
     },
     {
@@ -7907,11 +8800,16 @@
             }
         ],
         "topics": [
-            "Robots",
-            "Mining robots",
-            "Control of field robots",
-            " Sensory systems",
-            " Control of field robots"
+            "classes",
+            "introduction",
+            "limited",
+            "rethink",
+            "underwater",
+            "used",
+            "wide",
+            "ground",
+            "inspection",
+            "maintenance"
         ]
     },
     {
@@ -7944,11 +8842,16 @@
             }
         ],
         "topics": [
-            "Programming",
-            "Design and simulation",
-            "Task control",
-            "Multi-robot systems",
-            "Cooperative robots"
+            "homework",
+            "security",
+            "theoretical",
+            "cooperative",
+            "design",
+            "designing",
+            "eindustrial",
+            "exercices",
+            "individual",
+            "methods"
         ]
     },
     {
@@ -7981,12 +8884,16 @@
             }
         ],
         "topics": [
-            "Medical robotics",
-            "Rehabilitation robotics",
-            "Exoskeletons",
-            "Assistive robots",
-            "DLAs",
-            "Platforms of assistance robots"
+            "basic",
+            "introduction",
+            "learning",
+            "life",
+            "medical",
+            "present",
+            "special",
+            "taken",
+            "tasks",
+            "test"
         ]
     },
     {
@@ -8019,10 +8926,16 @@
             }
         ],
         "topics": [
-            "Applications",
-            "Social robots",
-            "Intelligent houses",
-            "Technical problems"
+            "intelligent",
+            "lectures",
+            "personal",
+            "sick",
+            "state",
+            "individual",
+            "introduction",
+            "needs",
+            "robots",
+            "social"
         ]
     },
     {
@@ -8078,11 +8991,16 @@
             }
         ],
         "topics": [
-            "Logic Systems",
-            "State Diagrams",
-            " Automata Programming",
-            "Ladder Programming",
-            "Grafcet (SFC)"
+            "industry",
+            "theoretical",
+            "actuators",
+            "capacity",
+            "common",
+            "dealing",
+            "experimental",
+            "representation",
+            "systems",
+            "tutorials"
         ]
     },
     {
@@ -8124,12 +9042,16 @@
             }
         ],
         "topics": [
-            "Teleoperation",
-            "Technologies Devices",
-            "Design specifications",
-            "Teleoperation architectures",
-            "Force-Torque Control",
-            "Applications"
+            "human",
+            "spatial",
+            "understanding",
+            "course",
+            "operations",
+            "used",
+            "control",
+            "guiding",
+            "programme",
+            "8.1"
         ]
     },
     {
@@ -8162,9 +9084,16 @@
             }
         ],
         "topics": [
-            "Robots",
-            "developed grippers",
-            " complex robotics"
+            "developed",
+            "subject",
+            "taken",
+            "controlled",
+            "doing",
+            "lectures",
+            "contact",
+            "designed",
+            "grasps",
+            "robotics"
         ]
     },
     {
@@ -8205,12 +9134,16 @@
             }
         ],
         "topics": [
-            "Mobile Robots",
-            "Geometric navigation",
-            "Topological navigation",
-            "Semantic Navigation",
-            "Terrain modeling",
-            "Mobile Robot"
+            "geometrical",
+            "non-crossable",
+            "theoretical",
+            "acquisition",
+            "element",
+            "semantic",
+            "systems",
+            "5.3",
+            "course",
+            "geometric"
         ]
     },
     {
@@ -8243,12 +9176,16 @@
             }
         ],
         "topics": [
-            "3D",
-            "Sensors",
-            "Techniques",
-            "Segmentation",
-            "Robotic applications ",
-            "Human-Robot"
+            "classes",
+            "component",
+            "drones",
+            "filtering",
+            "introduction",
+            "role",
+            "smart",
+            "3d",
+            "allow",
+            "applying"
         ]
     },
     {
@@ -8290,11 +9227,16 @@
             }
         ],
         "topics": [
-            "Components of a simulator",
-            "Gazebo Files",
-            "SDF",
-            "URDF",
-            "OpenRAVE"
+            "environments",
+            "formats",
+            "mechanical",
+            "robot",
+            "studied",
+            "basic",
+            "gazebo",
+            "importance",
+            "methods",
+            "openrave"
         ]
     },
     {
@@ -8309,10 +9251,16 @@
         "id": "14938",
         "schedule": [],
         "topics": [
-            "Introduction",
-            "research",
-            "robotics",
-            "automation"
+            "class=",
+            "familiar",
+            "introduction",
+            "later",
+            "student",
+            "usually",
+            "course",
+            "develop",
+            "gets",
+            "robotics"
         ]
     },
     {
@@ -8370,7 +9318,18 @@
                 "room": "INF 4.S.D.01"
             }
         ],
-        "topics": []
+        "topics": [
+            "focus",
+            "presentation",
+            "time",
+            "lectures",
+            "analysis",
+            "class=",
+            "classroom",
+            "consider",
+            "modules",
+            "plus"
+        ]
     },
     {
         "name": "Tools for Research in Telematic Engineering",
@@ -8428,7 +9387,18 @@
                 "room": "INF 4.S.D.01"
             }
         ],
-        "topics": []
+        "topics": [
+            "conditional",
+            "connectivity",
+            "course",
+            "descriptive",
+            "distribution",
+            "examples",
+            "hypothesis",
+            "science",
+            "telematic",
+            "case"
+        ]
     },
     {
         "name": "Management of Multimedia Information in Internet",
@@ -8520,7 +9490,18 @@
                 "room": "4.2.E02"
             }
         ],
-        "topics": []
+        "topics": [
+            "interpretation",
+            "complexity",
+            "practical",
+            "times",
+            "described",
+            "evaluate",
+            "exercises",
+            "language",
+            "probability",
+            "solving"
+        ]
     },
     {
         "name": "Advanced Distributed Real-Time and Cyber Physical Systems (no se oferta en 16/17)",
@@ -8533,7 +9514,18 @@
         "semester": "1",
         "id": "16146",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "discussion",
+            "respective",
+            "wide",
+            "equivalent/related",
+            "level",
+            "physical",
+            "specific",
+            "systems",
+            "middleware",
+            "science"
+        ]
     },
     {
         "name": "Network complexity analysis",
@@ -8593,7 +9585,18 @@
                 "room": "4.2.E02"
             }
         ],
-        "topics": []
+        "topics": [
+            "completing",
+            "contents",
+            "network",
+            "required",
+            "studied",
+            "involving",
+            "networking",
+            "research",
+            "communication",
+            "regular"
+        ]
     },
     {
         "name": "Mobile Networks",
@@ -8665,7 +9668,18 @@
                 "room": "LAB 4.1.B01 (Telematica)"
             }
         ],
-        "topics": []
+        "topics": [
+            "identity",
+            "implementing",
+            "labs",
+            "opportunistic",
+            "packet",
+            "parts",
+            "proposed",
+            "solution",
+            "state-of-the-art",
+            "competence"
+        ]
     },
     {
         "name": "Wireless Communications",
@@ -8696,7 +9710,18 @@
                 "room": "4.2.E02"
             }
         ],
-        "topics": []
+        "topics": [
+            "competence",
+            "critical",
+            "diversity",
+            "figures",
+            "offloading",
+            "performance",
+            "remains",
+            "tools",
+            "algorithms",
+            "communications"
+        ]
     },
     {
         "name": "Seminars",
@@ -8731,7 +9756,18 @@
                 "room": "2.0.C03"
             }
         ],
-        "topics": []
+        "topics": [
+            "best",
+            "expertise",
+            "gathering",
+            "opportunity",
+            "required",
+            "ects",
+            "freely",
+            "groups",
+            "marks",
+            "minimum"
+        ]
     },
     {
         "name": "Mobility, Security and Usability Aspects in Ubiquitous Computing and the Future Internet",
@@ -8817,7 +9853,18 @@
                 "room": "LAB 4.1.B01 (Telematica)"
             }
         ],
-        "topics": []
+        "topics": [
+            "ects",
+            "information",
+            "movement",
+            "security",
+            "taking",
+            "topics",
+            "discovery",
+            "fundamental",
+            "mobility",
+            "public"
+        ]
     },
     {
         "name": "Platforms for Networked Communities",
@@ -8857,7 +9904,18 @@
                 "room": "4.2.E02"
             }
         ],
-        "topics": []
+        "topics": [
+            "conceive",
+            "contents",
+            "following",
+            "information",
+            "platform",
+            "present",
+            "technologies",
+            "addition",
+            "class=",
+            "implementation"
+        ]
     },
     {
         "name": "Broadband networks",
@@ -8905,7 +9963,18 @@
                 "room": "4.2.E02"
             }
         ],
-        "topics": []
+        "topics": [
+            "session",
+            "access",
+            "gmpls",
+            "knowledge",
+            "papers",
+            "summary",
+            "technologies",
+            "wdm-pon",
+            "communication",
+            "energy"
+        ]
     },
     {
         "name": "Architecture of the Internet",
@@ -8951,7 +10020,18 @@
                 "room": "4.2.E02"
             }
         ],
-        "topics": []
+        "topics": [
+            "general",
+            "networks",
+            "tools",
+            "bgp",
+            "integrating",
+            "relation",
+            "self-learning",
+            "center",
+            "stability",
+            "debate"
+        ]
     },
     {
         "name": "Internet Measurement",
@@ -8997,7 +10077,18 @@
                 "room": "4.2.E02"
             }
         ],
-        "topics": []
+        "topics": [
+            "bittorrent",
+            "distribution",
+            "following",
+            "measuring",
+            "networks",
+            "optical",
+            "passive",
+            "plane",
+            "routing",
+            "required"
+        ]
     },
     {
         "name": "Plasma physics",
@@ -9065,11 +10156,16 @@
             }
         ],
         "topics": [
+            "fundamentals",
+            "magnetic",
+            "notes",
+            "ohmic",
+            "phenomena",
             "plasma",
-            "fluids",
-            "kinetic theory",
-            "physics",
-            "particle"
+            "provided",
+            "resistive",
+            "role",
+            "stability"
         ]
     },
     {
@@ -9084,11 +10180,16 @@
         "id": "15035",
         "schedule": [],
         "topics": [
-            "quantum mechanics",
-            "harmonic oscillator",
-            "particle dynamics",
-            "central forces",
-            "molecules"
+            "atoms",
+            "principal",
+            "assignments",
+            "bond",
+            "classroom",
+            "functions",
+            "learning",
+            "lecture",
+            "molecular",
+            "notes"
         ]
     },
     {
@@ -9182,11 +10283,16 @@
             }
         ],
         "topics": [
-            "gas",
-            "fluids",
-            "nozzles",
-            "fluid dynamic",
-            "Mach number"
+            "mach",
+            "potential",
+            "problem",
+            "quasi-1d",
+            "regimes",
+            "sessions",
+            "speed",
+            "stream",
+            "superposition",
+            "unsteady"
         ]
     },
     {
@@ -9255,11 +10361,16 @@
             }
         ],
         "topics": [
-            "nuclear fusion",
-            "electrodynamics",
-            "electromagnetic theory",
-            "particle dynamics",
-            "applied electromagnetism"
+            "electrostatics",
+            "evaluated",
+            "formulation",
+            "iii",
+            "maxwell",
+            "subproblems",
+            "theoretical",
+            "mathematics",
+            "students",
+            "charged"
         ]
     },
     {
@@ -9274,12 +10385,16 @@
         "id": "15037",
         "schedule": [],
         "topics": [
-            "descriptive adjectives",
-            "present tense",
-            "subjunctive",
-            "imperative",
-            "language",
-            "culture"
+            "plural",
+            "singular",
+            "deber",
+            "family",
+            "future",
+            "material",
+            "notes",
+            "ponerse",
+            "proposed",
+            "spanish"
         ]
     },
     {
@@ -9330,11 +10445,16 @@
             }
         ],
         "topics": [
-            "ordinary differential equations",
-            "linear algebra",
-            "Eulerian Methods",
-            "Lagrangian methods",
-            "partial differential equations"
+            "handed",
+            "plasma",
+            "used",
+            "physics",
+            "topics",
+            "able",
+            "algebra",
+            "area",
+            "basic",
+            "class="
         ]
     },
     {
@@ -9378,11 +10498,16 @@
             }
         ],
         "topics": [
-            "plasma",
-            "physics",
-            "nuclear",
-            "mechanical properties",
-            "fusion"
+            "determine",
+            "light",
+            "mechanisms",
+            "parameters",
+            "plus",
+            "pulse",
+            "state",
+            "thomson",
+            "characteristics",
+            "charge-exchange"
         ]
     },
     {
@@ -9397,12 +10522,16 @@
         "id": "15040",
         "schedule": [],
         "topics": [
-            "laboratory",
-            "plasma",
-            "physics",
-            "nuclear",
-            "mechanical properties",
-            "fusion"
+            "characterization",
+            "class=",
+            "electrodynamics",
+            "emission",
+            "light",
+            "plasmas",
+            "spectroscopy",
+            "deformation",
+            "materials",
+            "sessions"
         ]
     },
     {
@@ -9417,11 +10546,16 @@
         "id": "15041",
         "schedule": [],
         "topics": [
-            "diffusion",
-            "phase diagrams",
-            "degradation",
+            "provide",
+            "general",
+            "materials",
+            "optical",
+            "questions",
+            "course",
+            "influence",
             "processing",
-            "types of materials"
+            ")",
+            "assignments"
         ]
     },
     {
@@ -9436,11 +10570,16 @@
         "id": "15042",
         "schedule": [],
         "topics": [
-            "Bose-Einstein gas",
-            "Fermi gas",
+            "develop",
+            "mean-field",
+            "microscopic",
             "physics",
-            "phase transitions",
-            "Boltzmann"
+            "plasma",
+            "relations",
+            "response",
+            "student",
+            "systems",
+            "transport"
         ]
     },
     {
@@ -9455,11 +10594,16 @@
         "id": "15043",
         "schedule": [],
         "topics": [
-            "atoms",
-            "atomic structure",
-            "molecules",
-            "Born-Oppenheimer",
-            "spectroscopy"
+            "born-oppenheimer",
+            "diatomic",
+            "fields",
+            "material",
+            "molecular",
+            "provides",
+            "subject",
+            "theory",
+            "improving",
+            "provided"
         ]
     },
     {
@@ -9537,11 +10681,16 @@
             }
         ],
         "topics": [
-            "fusion power",
+            "corrected",
+            "current",
+            "drive",
+            "fluid",
+            "identify",
+            "operation",
+            "provide",
+            "tokamaks",
             "stellarators",
-            "plasma",
-            "tokamak",
-            "confinement"
+            "international"
         ]
     },
     {
@@ -9556,11 +10705,16 @@
         "id": "15045",
         "schedule": [],
         "topics": [
-            "plasma",
-            "magnetic measurements",
-            "particle",
-            "spectroscopy",
-            "microwave"
+            "density",
+            "diagnostic",
+            "electrical",
+            "langmuir",
+            "page",
+            "simulate",
+            "stark",
+            "surfaces",
+            "doppler",
+            "measurements"
         ]
     },
     {
@@ -9575,11 +10729,16 @@
         "id": "15046",
         "schedule": [],
         "topics": [
-            "plasma",
-            "particle methods",
-            "spectral methods",
-            "parallel programming",
-            "linear analysis"
+            "course",
+            "monte",
+            "parallel",
+            "slides",
+            "spectral",
+            "bi-spectral",
+            "class=",
+            "physics",
+            "tarea",
+            "able"
         ]
     },
     {
@@ -9594,11 +10753,16 @@
         "id": "15047",
         "schedule": [],
         "topics": [
-            "magnetic confinement",
-            "Vacuum vessel",
-            "fusion energy",
-            "electrical systems",
-            "cryostat"
+            "associated",
+            "basic",
+            "chapter",
+            "classroom",
+            "conferences",
+            "covers",
+            "electrical",
+            "electromagnetism",
+            "engineering",
+            "fusion"
         ]
     },
     {
@@ -9640,12 +10804,16 @@
             }
         ],
         "topics": [
-            "Navier-Stokes",
+            "numerical",
+            "students",
+            "turbulence-generated",
+            "magnetohydrodynamics",
+            "navier-stokes",
+            "plasmas",
             "turbulence",
-            "fluids",
-            "magnetohydrodynamic",
-            "fusion plasmas",
-            "physics"
+            "zonal",
+            "discussed",
+            "dynamics"
         ]
     },
     {
@@ -9660,11 +10828,16 @@
         "id": "15051",
         "schedule": [],
         "topics": [
-            "MHD",
-            "magnetohydrodynamic",
-            "equilibrium",
-            "magnetic diagnostics",
-            "MHD stability"
+            "coupling",
+            "global",
+            "main",
+            "principle",
+            "provided",
+            "region",
+            "resistivity",
+            "student",
+            "theoretical",
+            "topology"
         ]
     },
     {
@@ -9679,11 +10852,16 @@
         "id": "15050",
         "schedule": [],
         "topics": [
-            "astrophysics",
-            "plasma",
-            "MHD",
-            "orbits",
-            "environment"
+            "associated",
+            "driven",
+            "formation",
+            "issues",
+            "neutral",
+            "physical",
+            "radiative",
+            "tools",
+            "characteristics",
+            "collmated"
         ]
     },
     {
@@ -9698,11 +10876,16 @@
         "id": "15049",
         "schedule": [],
         "topics": [
-            "nuclear fusion",
-            "fast ignition",
-            "hydrodynamics",
-            "reactions",
-            "atomic conditions"
+            "effect",
+            "future",
+            "instituto",
+            "methods",
+            "series",
+            "thermonuclear",
+            "atomic",
+            "confinement",
+            "development",
+            "fully"
         ]
     },
     {
@@ -9717,11 +10900,16 @@
         "id": "15052",
         "schedule": [],
         "topics": [
-            "modelling",
-            "Grad-Safranov",
-            "MHD",
-            "Parabolic",
-            "Asymptotic"
+            "different",
+            "solving",
+            "understanding",
+            "high",
+            "knowledge",
+            "magnetically",
+            "problem",
+            "uniqueness",
+            "constitutive",
+            "sessions"
         ]
     },
     {
@@ -9736,11 +10924,16 @@
         "id": "15053",
         "schedule": [],
         "topics": [
-            "atomic structure",
-            "molecular structure",
-            "collisions",
-            "scattering",
-            "R-matrix"
+            "class=",
+            "method",
+            "wavefunctions",
+            "calculation",
+            "functions",
+            "homework",
+            "resonances",
+            "many-electron",
+            "momentum",
+            "perform"
         ]
     },
     {
@@ -9790,12 +10983,16 @@
             }
         ],
         "topics": [
-            "materials",
-            "fusion reactions",
-            "radiation damage",
-            "RD",
-            "ion radiation",
-            "oxide dispersion strengthened"
+            "modelling",
+            "solid",
+            "vanadium",
+            "10",
+            "atomic",
+            "class=",
+            "classroom",
+            "oxide",
+            "physics",
+            "post-lecture"
         ]
     },
     {
@@ -9810,11 +11007,16 @@
         "id": "15055",
         "schedule": [],
         "topics": [
-            "particle recycling",
-            "wall coatings",
-            "divertors",
-            "plasma interactions",
-            "material selection"
+            "future",
+            "learning",
+            "pages",
+            "chemical",
+            "lecturers",
+            "mechanisms",
+            "selection",
+            "tarea",
+            "transport",
+            "1.overview"
         ]
     },
     {
@@ -9829,11 +11031,16 @@
         "id": "15057",
         "schedule": [],
         "topics": [
-            "robot history",
-            "Force-Torque",
-            "teleoperation",
-            "human factors",
-            "simulators"
+            "history",
+            "interaction",
+            "main",
+            "solving",
+            "understanding",
+            "concepts",
+            "methods",
+            "robot",
+            "training",
+            "devices"
         ]
     },
     {
@@ -9848,11 +11055,16 @@
         "id": "15054",
         "schedule": [],
         "topics": [
-            "nuclear radioactivity",
-            "decays",
-            "nuclear structure",
-            "fission",
-            "fusion"
+            "constitute",
+            "solving",
+            "bulk",
+            "notes",
+            "subatomic",
+            "beta",
+            "gamma",
+            "knowledge",
+            "lectures",
+            "methods"
         ]
     },
     {
@@ -9867,11 +11079,16 @@
         "id": "15056",
         "schedule": [],
         "topics": [
-            "inductively coupled plasmas",
-            "surface wave",
-            "plasma applications",
-            "laboratory",
-            "ICP"
+            "fabric",
+            "transparencies",
+            "interaction",
+            "lectures",
+            "mechanics",
+            "problems",
+            "sectors",
+            "treatment",
+            "basic",
+            "class"
         ]
     },
     {
@@ -9999,10 +11216,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "photonics_technologies",
-            "optic_systems",
-            "optical_elements"
+            "complexity",
+            "english-language",
+            "linear",
+            "used",
+            "consolidate",
+            "ethic",
+            "free",
+            "individual",
+            "learned",
+            "long-life"
         ]
     },
     {
@@ -10136,10 +11359,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "photonics_technologies",
-            "photonic_system_design",
-            "photonics_research"
+            "basic",
+            "communications",
+            "electro-",
+            "magneto-",
+            "multidisciplinary",
+            "photonics",
+            "professional",
+            "real",
+            "sources",
+            "tarea"
         ]
     },
     {
@@ -10288,10 +11517,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "photonics_technologies",
-            "photonic_system_design",
-            "photonics_research"
+            "basis",
+            "components",
+            "divided",
+            "lectures",
+            "matrices",
+            "otdm",
+            "practical",
+            "provided",
+            "select",
+            "team"
         ]
     },
     {
@@ -10412,9 +11647,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "simulation_tools",
-            "photonics_simulations"
+            "6.2",
+            "beamprop",
+            "english",
+            "knowledge",
+            "optiwave",
+            "plans",
+            "receptors",
+            "select",
+            "specs",
+            "understand"
         ]
     },
     {
@@ -10429,9 +11671,16 @@
         "id": "17366",
         "schedule": [],
         "topics": [
-            "photonics_engineering",
-            "assistive_photonics",
-            "photonic_system_design"
+            "3d",
+            "applications",
+            "causes",
+            "description",
+            "designing",
+            "handle",
+            "head",
+            "people",
+            "point",
+            "results"
         ]
     },
     {
@@ -10506,9 +11755,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "organic_photonics",
-            "organic_devices"
+            "applying",
+            "blocks",
+            "complexity",
+            "consolidate",
+            "display",
+            "groups",
+            "integration",
+            "learning",
+            "making",
+            "non-specialized"
         ]
     },
     {
@@ -10565,10 +11821,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "fiber_optic",
-            "sensing",
-            "distributed_sensing"
+            "basis",
+            "different",
+            "optical",
+            "real",
+            "sessions",
+            "subsequent",
+            "wider",
+            "4.a",
+            "application",
+            "classes"
         ]
     },
     {
@@ -10630,9 +11892,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "optical_communications",
-            "optical_access_networks"
+            "classes",
+            "incomplete",
+            "opportunity",
+            "theoretical",
+            "class",
+            "developed",
+            "expected",
+            "im/dd",
+            "include",
+            "labs"
         ]
     },
     {
@@ -10647,10 +11916,16 @@
         "id": "17371",
         "schedule": [],
         "topics": [
-            "photonics_engineering",
-            "imaging_systems",
-            "2d_imaging",
-            "3d_imaging"
+            "art",
+            "driving",
+            "judgements",
+            "specific",
+            "unfamiliar",
+            "ce3",
+            "effectively",
+            "knowledge",
+            "state",
+            "work"
         ]
     },
     {
@@ -10665,10 +11940,16 @@
         "id": "17367",
         "schedule": [],
         "topics": [
-            "photonics_engineering",
-            "lidar",
-            "lidar_applications",
-            "lidar_technologies"
+            "basis",
+            "class=",
+            "effectively",
+            "exposure",
+            "functionality",
+            "individual",
+            "know",
+            "linked",
+            "media",
+            "possess"
         ]
     },
     {
@@ -10683,9 +11964,16 @@
         "id": "17370",
         "schedule": [],
         "topics": [
-            "photonics_engineering",
-            "optical_sensor_networks",
-            "network_architecture"
+            "classes",
+            "comprender",
+            "contexto",
+            "en",
+            "entornos",
+            "focused",
+            "identify",
+            "information",
+            "lectures",
+            "mantener"
         ]
     },
     {
@@ -10740,9 +12028,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "nanophotonics",
-            "nanotechnologies"
+            "audiovisual",
+            "concepts",
+            "far-field",
+            "light-matter",
+            "possess",
+            "resonant",
+            "tarea",
+            "class=",
+            "courses",
+            "expand"
         ]
     },
     {
@@ -10799,9 +12094,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "integrated_circuits",
-            "optical_circuits"
+            "discussion",
+            "platforms",
+            "possible",
+            "reports",
+            "supplement",
+            "clear",
+            "experiences",
+            "interfaces",
+            "limitations",
+            "performance"
         ]
     },
     {
@@ -10867,10 +12169,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "semiconductor_lasers",
-            "laser",
-            "laser_diodes"
+            "expand",
+            "lasers",
+            "maintain",
+            "photonics",
+            "problem",
+            "reflections",
+            "tunable",
+            "blocks",
+            "discussion",
+            "integration"
         ]
     },
     {
@@ -10885,9 +12193,16 @@
         "id": "17377",
         "schedule": [],
         "topics": [
-            "photonics_engineering",
-            "ultrafast_photonics",
-            "photonics_applications"
+            "choosing",
+            "experiences",
+            "opportunity",
+            "provide",
+            "ultrashort",
+            "unfamiliar",
+            "critical",
+            "effectively",
+            "incomplete",
+            "main"
         ]
     },
     {
@@ -10902,10 +12217,16 @@
         "id": "17375",
         "schedule": [],
         "topics": [
-            "photonics_engineering",
             "biophotonics",
-            "bioimaging",
-            "biosensors"
+            "class",
+            "course",
+            "dispersion",
+            "highly",
+            "identifying",
+            "linear",
+            "long-life",
+            "reflections",
+            "research"
         ]
     },
     {
@@ -10994,8 +12315,16 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "project"
+            "allow",
+            "ce9",
+            "elective",
+            "field",
+            "individual",
+            "later",
+            "maintain",
+            "projects",
+            "types",
+            "based"
         ]
     },
     {
@@ -11010,8 +12339,16 @@
         "id": "17365",
         "schedule": [],
         "topics": [
-            "photonics_engineering",
-            "project"
+            "allow",
+            "choose",
+            "essential",
+            "fundamental",
+            "instrumentation",
+            "lectures",
+            "managing",
+            "reflections",
+            "wider",
+            "assigned"
         ]
     },
     {
@@ -11146,8 +12483,15 @@
             }
         ],
         "topics": [
-            "photonics_engineering",
-            "seminars"
+            "professional",
+            "researchers",
+            "tarea",
+            "topics",
+            "class=",
+            "provided",
+            "relevant",
+            "seminars",
+            "year"
         ]
     },
     {
@@ -11162,8 +12506,16 @@
         "id": "17378",
         "schedule": [],
         "topics": [
-            "photonics_engineering",
-            "internship"
+            "delivered",
+            "fundamental",
+            "ideas",
+            "know",
+            "main",
+            "nature",
+            "performs",
+            "qualify",
+            "solve",
+            "students"
         ]
     },
     {
@@ -11177,6 +12529,17 @@
         "semester": "0",
         "id": "17251",
         "schedule": [],
-        "topics": []
+        "topics": [
+            "guide",
+            "presentation",
+            "field",
+            "individual",
+            "oral",
+            "project",
+            "planning",
+            "realization",
+            "technical",
+            "university"
+        ]
     }
 ]
