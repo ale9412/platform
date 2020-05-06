@@ -1,8 +1,8 @@
 #Frecuency-Topic-Extractor
 from os import sys
-
+from imp import reload
 reload(sys)
-sys.setdefaultencoding('utf-8')
+# sys.setdefaultencoding('utf-8')
 import json
 import requests
 import pandas as pd
@@ -26,6 +26,7 @@ from bs4 import BeautifulSoup
 import requests
 import urllib.request
 import re
+from imp import reload
 
 palabrasvac = ['a', 'about', 'above', 'across', 'after', 'afterwards']
 palabrasvac += ['again', 'against', 'all', 'almost', 'alone', 'along']
@@ -75,7 +76,7 @@ palabrasvac += ['us', 'very', 'via', 'was', 'we', 'well', 'were', 'what']
 palabrasvac += ['whatever', 'when', 'whence', 'whenever', 'where']
 palabrasvac += ['whereafter', 'whereas', 'whereby', 'wherein', 'whereupon']
 palabrasvac += ['wherever', 'whether', 'which', 'while', 'whither', 'who']
-palabrasvac += ['whoever', 'whole', 'whom', 'whose', 'why', 'will', 'with','[',']','{','}']
+palabrasvac += ['whoever', 'whole', 'whom', 'whose', 'why', 'will', 'with','[',']','{','}','?']
 palabrasvac += ['within', 'without', 'would', 'yet', 'you', 'your','%','<','>','-','and/or','*','$',':',';',"'s",'``']
 palabrasvac += ['yours', 'yourself', 'yourselves','1','2','3','4','5','6','7','8','9','0']
 
@@ -244,8 +245,8 @@ def writeTopics(sorterListTopics,subjects,titulo):
             array_new.extend(titulo[contSubjects])
             array=tuple(array_new)
             subjects[contSubjects]["topics"]=array
-            with open('./data/subject-updated.json', 'w') as subjects_f:
-            	subjects_f.write(json.dumps(subjects).encode("latin1"))                
+            with open('../data/subject-updated.json', 'w') as subjects_f:
+            	subjects_f.write(json.dumps(subjects))                
         else:
             array=finalTopicsSubjects[:10]
             array_new=list(array)
@@ -253,8 +254,8 @@ def writeTopics(sorterListTopics,subjects,titulo):
             array_new.extend(titulo[contSubjects])
             array=tuple(array_new)
             subjects[contSubjects]["topics"]=array
-            with open('./data/subject-updated.json', 'w') as subjects_f:
-                subjects_f.write(json.dumps(subjects).encode("latin1"))    
+            with open('../data/subject-updated.json', 'w') as subjects_f:
+                subjects_f.write(json.dumps(subjects))    
         contSubjects=contSubjects+1
        
         #print(finalTopicsSubjects)       
@@ -309,7 +310,7 @@ def miner(subjects,subjects_f):
             #     text = np.char.replace(data, k, ' ')
             words = [word for word in data if word.isalpha()]
             tokensSubjects=stop_wear(words,palabrasvac) 
-            #tokensSubjects = [x.replace('"!\"#$%&()*+-./:;<=>?@[\]^_`{|}~\n="','') for x in tokensSubjects]
+            tokensSubjects1 = [x.replace('"!\"#$%&()*+-./:;<=>?@[\]^_`{|}~\n="','') for x in tokensSubjects]
             
             # tokensSubjects1 = [x.replace('\n','') for x in tokensSubjects0]
             # tokensSubjects2=[x.replace('\\n','') for x in tokensSubjects1]
@@ -323,7 +324,7 @@ def miner(subjects,subjects_f):
             # tokensSubjects10=[x.replace("(\\d|\\W)+><="," ") for x in tokensSubjects9]
             # tokensSubjects=[x.replace('[^a-zA-Z]', ' ') for x in tokensSubjects10]
            
-            unique_words=vocabulario(tokensSubjects)
+            unique_words=vocabulario(tokensSubjects1)
             
 
             topics_result,frecuency=zip(*unique_words)
@@ -356,10 +357,10 @@ def miner(subjects,subjects_f):
 if __name__ == "__main__":
     
     # Open subjects file and get each subject object
-    with open("./data/subject-updated.json") as subjects_f:
-        subjects =json.load(subjects_f)
+    with open("../data/subject-updated.json") as subjects_f:
+        subjects=json.load(subjects_f)
     
-    #Scraping and data process information of all page web
+        #Scraping and data process information of all page web
     topicsAll,frecuencyAll,topicsSubjects,frecuencySubjects,titulo_all=miner(subjects,subjects_f)
   
     #get the general information of all topics possibles in all data get 
